@@ -45,7 +45,10 @@ async function parseXMLData(xmlData) {
     mediaItems.forEach(item => {
       const url = item.textContent.trim()
       if (url) {
-        property.Photos.push(url)
+        // Ensure URLs have the correct base path
+        const baseUrl = import.meta.env.BASE_URL || '/'
+        const fullUrl = url.startsWith('/') ? `${baseUrl.slice(0, -1)}${url}` : url
+        property.Photos.push(fullUrl)
       }
     })
     

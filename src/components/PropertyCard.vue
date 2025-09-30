@@ -2,7 +2,7 @@
   <div class="property-card">
     <div class="property-image">
       <img 
-        :src="property.Photos && property.Photos.length > 0 ? property.Photos[0] : '/img/sem-foto.svg'" 
+        :src="getImageUrl()" 
         :alt="property.Title" 
         style="width: 100%; height: 100%; object-fit: cover;"
       >
@@ -33,6 +33,8 @@
 </template>
 
 <script>
+import { resolveAssetPath, getDefaultImage } from '../utils/assets.js'
+
 export default {
   name: 'PropertyCard',
   props: {
@@ -44,6 +46,12 @@ export default {
   methods: {
     formatPrice(price) {
       return new Intl.NumberFormat('pt-BR').format(price)
+    },
+    getImageUrl() {
+      if (this.property.Photos && this.property.Photos.length > 0) {
+        return this.property.Photos[0]
+      }
+      return getDefaultImage()
     }
   }
 }

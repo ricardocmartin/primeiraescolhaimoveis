@@ -36,7 +36,7 @@
           <div style="margin-bottom: 3rem;">
             <div style="height: 400px; border-radius: 10px; margin-bottom: 1rem; overflow: hidden;">
               <img 
-                :src="property.Photos && property.Photos.length > 0 ? property.Photos[0] : '/img/sem-foto.svg'" 
+                :src="getMainImageUrl()" 
                 :alt="property.Title" 
                 style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;"
               >
@@ -204,6 +204,7 @@
 
 <script>
 import { usePropertyStore } from '../stores/propertyStore'
+import { resolveAssetPath, getDefaultImage } from '../utils/assets.js'
 
 export default {
   name: 'PropertyDetail',
@@ -230,6 +231,13 @@ export default {
   methods: {
     formatPrice(price) {
       return new Intl.NumberFormat('pt-BR').format(price)
+    },
+    
+    getMainImageUrl() {
+      if (this.property?.Photos && this.property.Photos.length > 0) {
+        return this.property.Photos[0]
+      }
+      return getDefaultImage()
     },
     
     getPropertyType(type) {
