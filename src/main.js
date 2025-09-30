@@ -7,6 +7,10 @@ import About from './views/About.vue'
 import Contact from './views/Contact.vue'
 import PropertyDetail from './views/PropertyDetail.vue'
 import './style.css'
+import heroBackground from './assets/hero-background.jpg'
+
+// Set CSS custom property for hero background
+document.documentElement.style.setProperty('--hero-bg-url', `url(${heroBackground})`)
 
 const routes = [
   { path: '/', name: 'Home', component: Home },
@@ -17,7 +21,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes
 })
 

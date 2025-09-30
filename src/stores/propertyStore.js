@@ -61,8 +61,17 @@ export function usePropertyStore() {
     
     loading.value = true
     try {
-      const response = await fetch('/xml/dados.xml')
+      const baseUrl = import.meta.env.BASE_URL || '/'
+      const xmlUrl = `${baseUrl}xml/dados.xml`
+      console.log('Tentando carregar XML de:', xmlUrl)
+      const response = await fetch(xmlUrl)
+      
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`)
+      }
+      
       const xmlData = await response.text()
+      console.log('XML carregado, tamanho:', xmlData.length, 'caracteres')
       properties.value = await parseXMLData(xmlData)
       loaded.value = true
       console.log('Propriedades carregadas:', properties.value.length)
