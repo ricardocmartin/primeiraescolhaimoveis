@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <!-- Fundo gradiente -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f9fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e9ecef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Fundo -->
+  <rect width="800" height="600" fill="url(#bg)"/>
+  
+  <!-- Casa simples -->
+  <g transform="translate(400,300)">
+    <!-- Base da casa -->
+    <rect x="-120" y="-40" width="240" height="160" fill="#3498db" stroke="#2980b9" stroke-width="3"/>
+    
+    <!-- Telhado -->
+    <polygon points="-140,-40 0,-120 140,-40" fill="#e74c3c" stroke="#c0392b" stroke-width="3"/>
+    
+    <!-- Porta -->
+    <rect x="-20" y="40" width="40" height="80" fill="#8b4513" stroke="#654321" stroke-width="2"/>
+    <circle cx="10" cy="80" r="3" fill="#ffd700"/>
+    
+    <!-- Janelas -->
+    <rect x="-80" y="0" width="30" height="30" fill="#87ceeb" stroke="#4682b4" stroke-width="2"/>
+    <rect x="50" y="0" width="30" height="30" fill="#87ceeb" stroke="#4682b4" stroke-width="2"/>
+    
+    <!-- Divisórias das janelas -->
+    <line x1="-65" y1="0" x2="-65" y2="30" stroke="#4682b4" stroke-width="1"/>
+    <line x1="-80" y1="15" x2="-50" y2="15" stroke="#4682b4" stroke-width="1"/>
+    <line x1="65" y1="0" x2="65" y2="30" stroke="#4682b4" stroke-width="1"/>
+    <line x1="50" y1="15" x2="80" y2="15" stroke="#4682b4" stroke-width="1"/>
+  </g>
+  
+  <!-- Texto -->
+  <text x="400" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#6c757d" font-weight="bold">
+    Primeira Escolha Imóveis
+  </text>
+  
+  <!-- Ícone de casa menor -->
+  <text x="360" y="505" font-family="Arial, sans-serif" font-size="20" fill="#3498db">🏠</text>
+</svg>
