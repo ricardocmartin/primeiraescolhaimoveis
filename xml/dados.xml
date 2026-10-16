@@ -19,7 +19,7 @@
         <Neighborhood>Itaim Bibi</Neighborhood>
         <Address>Rua Joaquim Floriano</Address>
         <StreetNumber>100</StreetNumber>
-        <PostalCode>04534-000</PostalCode>
+        <PostalCode>04534000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">3500000</ListPrice>
@@ -33,10 +33,11 @@
         <Suites>3</Suites>
       </Details>
       <Media>
-        <Item medium="image">/img/apartamento-luxo-1.jpg</Item>
-        <Item medium="image">/img/apartamento-luxo-2.jpg</Item>
-        <Item medium="image">/img/apartamento-luxo-3.jpg</Item>
-        <Item medium="image">/img/apartamento-luxo-4.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-luxo-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-luxo-2.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-luxo-3.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-luxo-4.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-luxo-1.jpg</Item>
       </Media>
       <ContactInfo>
         <Name>Primeira Escolha Imoveis</Name>
@@ -70,9 +71,11 @@
         <Suites>2</Suites>
       </Details>
       <Media>
-        <Item medium="image">/img/apartamento-moema-1.jpg</Item>
-        <Item medium="image">/img/apartamento-moema-2.jpg</Item>
-        <Item medium="image">/img/apartamento-moema-3.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-moema-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-moema-2.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-moema-3.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-moema-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-moema-2.jpg</Item>
       </Media>
       <ContactInfo>
         <Name>Primeira Escolha Imoveis</Name>
@@ -92,7 +95,7 @@
         <Neighborhood>Jardins</Neighborhood>
         <Address>Rua Haddock Lobo</Address>
         <StreetNumber>1300</StreetNumber>
-        <PostalCode>01414-002</PostalCode>
+        <PostalCode>01414002</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">6800000</ListPrice>
@@ -106,9 +109,11 @@
         <Suites>3</Suites>
       </Details>
       <Media>
-        <Item medium="image">/img/cobertura-jardins-1.jpg</Item>
-        <Item medium="image">/img/cobertura-jardins-2.jpg</Item>
-        <Item medium="image">/img/cobertura-jardins-3.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/cobertura-jardins-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/cobertura-jardins-2.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/cobertura-jardins-3.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/cobertura-jardins-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/cobertura-jardins-2.jpg</Item>
       </Media>
       <ContactInfo>
         <Name>Primeira Escolha Imoveis</Name>
@@ -128,7 +133,7 @@
         <Neighborhood>Vila Nova Conceição</Neighborhood>
         <Address>Rua Diogo Jácome</Address>
         <StreetNumber>700</StreetNumber>
-        <PostalCode>04512-001</PostalCode>
+        <PostalCode>04512001</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">3100000</ListPrice>
@@ -142,8 +147,11 @@
         <Suites>1</Suites>
       </Details>
       <Media>
-        <Item medium="image">/img/vila-nova-1.jpg</Item>
-        <Item medium="image">/img/vila-nova-2.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/vila-nova-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/vila-nova-2.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/vila-nova-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/vila-nova-2.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/vila-nova-1.jpg</Item>
       </Media>
       <ContactInfo>
         <Name>Primeira Escolha Imoveis</Name>
@@ -163,7 +171,7 @@
         <Neighborhood>Itaim Bibi</Neighborhood>
         <Address>Rua Elvira Ferraz</Address>
         <StreetNumber>250</StreetNumber>
-        <PostalCode>04552-040</PostalCode>
+        <PostalCode>04552040</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">2900000</ListPrice>
@@ -177,9 +185,11 @@
         <Suites>2</Suites>
       </Details>
       <Media>
-        <Item medium="image">/img/itaim-varanda-1.jpg</Item>
-        <Item medium="image">/img/itaim-varanda-2.jpg</Item>
-        <Item medium="image">/img/itaim-varanda-3.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/itaim-varanda-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/itaim-varanda-2.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/itaim-varanda-3.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/itaim-varanda-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/itaim-varanda-2.jpg</Item>
       </Media>
       <ContactInfo>
         <Name>Primeira Escolha Imoveis</Name>
@@ -199,7 +209,7 @@
         <Neighborhood>Moema</Neighborhood>
         <Address>Avenida Sabiá</Address>
         <StreetNumber>800</StreetNumber>
-        <PostalCode>04515-001</PostalCode>
+        <PostalCode>04515001</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">4500000</ListPrice>
@@ -234,7 +244,7 @@
         <Neighborhood>Jardins</Neighborhood>
         <Address>Rua Doutor Melo Alves</Address>
         <StreetNumber>500</StreetNumber>
-        <PostalCode>01417-010</PostalCode>
+        <PostalCode>01417010</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">2500000</ListPrice>
@@ -268,7 +278,7 @@
         <Neighborhood>Itaim Bibi</Neighborhood>
         <Address>Rua Escobar Ortiz</Address>
         <StreetNumber>500</StreetNumber>
-        <PostalCode>04512-050</PostalCode>
+        <PostalCode>04512050</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">3800000</ListPrice>
@@ -282,6 +292,10 @@
         <Suites>3</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0008_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0008_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0008_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0008_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0008_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -302,7 +316,7 @@
         <Neighborhood>Tatuapé</Neighborhood>
         <Address>Rua Itapura</Address>
         <StreetNumber>500</StreetNumber>
-        <PostalCode>03310-000</PostalCode>
+        <PostalCode>03310000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">850000</ListPrice>
@@ -316,6 +330,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0009_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0009_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0009_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0009_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0009_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -336,7 +354,7 @@
         <Neighborhood>Baeta Neves</Neighborhood>
         <Address>Avenida Pereira Barreto</Address>
         <StreetNumber>400</StreetNumber>
-        <PostalCode>09751-000</PostalCode>
+        <PostalCode>09751000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">650000</ListPrice>
@@ -350,6 +368,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0010_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0010_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0010_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0010_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0010_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -370,7 +392,7 @@
         <Neighborhood>Pinheiros</Neighborhood>
         <Address>Rua dos Pinheiros</Address>
         <StreetNumber>1500</StreetNumber>
-        <PostalCode>05422-002</PostalCode>
+        <PostalCode>05422002</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">1200000</ListPrice>
@@ -384,6 +406,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0011_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0011_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0011_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0011_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0011_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -404,7 +430,7 @@
         <Neighborhood>Santana</Neighborhood>
         <Address>Rua Doutor César</Address>
         <StreetNumber>900</StreetNumber>
-        <PostalCode>02013-002</PostalCode>
+        <PostalCode>02013002</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">780000</ListPrice>
@@ -418,6 +444,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0012_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0012_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0012_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0012_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0012_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -438,7 +468,7 @@
         <Neighborhood>Vila Madalena</Neighborhood>
         <Address>Rua Heitor Penteado</Address>
         <StreetNumber>2000</StreetNumber>
-        <PostalCode>05438-300</PostalCode>
+        <PostalCode>05438300</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">950000</ListPrice>
@@ -452,6 +482,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0013_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0013_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0013_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0013_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0013_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -472,7 +506,7 @@
         <Neighborhood>Jardim do Mar</Neighborhood>
         <Address>Avenida Kennedy</Address>
         <StreetNumber>700</StreetNumber>
-        <PostalCode>09726-253</PostalCode>
+        <PostalCode>09726253</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">550000</ListPrice>
@@ -486,6 +520,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0014_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0014_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0014_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0014_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0014_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -506,7 +544,7 @@
         <Neighborhood>Tatuapé</Neighborhood>
         <Address>Rua Serra de Bragança</Address>
         <StreetNumber>1200</StreetNumber>
-        <PostalCode>03318-000</PostalCode>
+        <PostalCode>03318000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">890000</ListPrice>
@@ -520,6 +558,10 @@
         <Suites>2</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0015_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0015_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0015_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0015_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0015_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -540,7 +582,7 @@
         <Neighborhood>Jardim Santo André</Neighborhood>
         <Address>Rua Dom Lino Deodato</Address>
         <StreetNumber>50</StreetNumber>
-        <PostalCode>09090-090</PostalCode>
+        <PostalCode>09090090</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">720000</ListPrice>
@@ -554,6 +596,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0016_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0016_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0016_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0016_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0016_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -574,7 +620,7 @@
         <Neighborhood>Moema</Neighborhood>
         <Address>Alameda dos Maracatins</Address>
         <StreetNumber>1000</StreetNumber>
-        <PostalCode>04089-001</PostalCode>
+        <PostalCode>04089001</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">1500000</ListPrice>
@@ -588,6 +634,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0017_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0017_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0017_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0017_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0017_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -608,7 +658,7 @@
         <Neighborhood>Vila Pires</Neighborhood>
         <Address>Rua Paulo de Avelar</Address>
         <StreetNumber>300</StreetNumber>
-        <PostalCode>09121-430</PostalCode>
+        <PostalCode>09121430</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">680000</ListPrice>
@@ -622,6 +672,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0018_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0018_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0018_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0018_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0018_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -642,7 +696,7 @@
         <Neighborhood>Perdizes</Neighborhood>
         <Address>Rua Caraíbas</Address>
         <StreetNumber>800</StreetNumber>
-        <PostalCode>05020-000</PostalCode>
+        <PostalCode>05020000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">990000</ListPrice>
@@ -656,6 +710,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0019_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0019_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0019_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0019_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0019_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -676,7 +734,7 @@
         <Neighborhood>Vila Madalena</Neighborhood>
         <Address>Rua Fidalga</Address>
         <StreetNumber>500</StreetNumber>
-        <PostalCode>05432-000</PostalCode>
+        <PostalCode>05432000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">1350000</ListPrice>
@@ -690,6 +748,10 @@
         <Suites>2</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0020_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0020_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0020_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0020_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0020_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -710,7 +772,7 @@
         <Neighborhood>Perdizes</Neighborhood>
         <Address>Rua Cardoso de Almeida</Address>
         <StreetNumber>1200</StreetNumber>
-        <PostalCode>05013-001</PostalCode>
+        <PostalCode>05013001</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">4500</ListPrice>
@@ -745,7 +807,7 @@
         <Neighborhood>Vila Madalena</Neighborhood>
         <Address>Rua Aspicuelta</Address>
         <StreetNumber>300</StreetNumber>
-        <PostalCode>05433-010</PostalCode>
+        <PostalCode>05433010</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">2800</ListPrice>
@@ -780,7 +842,7 @@
         <Neighborhood>Ipiranga</Neighborhood>
         <Address>Rua Bom Pastor</Address>
         <StreetNumber>2000</StreetNumber>
-        <PostalCode>04203-002</PostalCode>
+        <PostalCode>04203002</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">3200</ListPrice>
@@ -814,7 +876,7 @@
         <Neighborhood>Mooca</Neighborhood>
         <Address>Rua da Mooca</Address>
         <StreetNumber>3000</StreetNumber>
-        <PostalCode>03104-002</PostalCode>
+        <PostalCode>03104002</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">2500</ListPrice>
@@ -848,10 +910,10 @@
         <Neighborhood>Vila Mariana</Neighborhood>
         <Address>Rua Pelotas</Address>
         <StreetNumber>400</StreetNumber>
-        <PostalCode>04012-001</PostalCode>
+        <PostalCode>04012001</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">3800</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">3800</RentalPrice>
         <Description><![CDATA[Ótima localização, a 10 min a pé do metrô Ana Rosa. Apartamento espaçoso e com armários.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">85</LotArea>
@@ -862,6 +924,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0025_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0025_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0025_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0025_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0025_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -882,10 +948,10 @@
         <Neighborhood>Consolação</Neighborhood>
         <Address>Rua Augusta</Address>
         <StreetNumber>1500</StreetNumber>
-        <PostalCode>01305-100</PostalCode>
+        <PostalCode>01305100</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">2200</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">2200</RentalPrice>
         <Description><![CDATA[Perfeito para estudantes. Mobiliado, com cozinha compacta. Condomínio com lavanderia e academia. Sem vaga de garagem.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">35</LotArea>
@@ -896,6 +962,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0026_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0026_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0026_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0026_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0026_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -916,10 +986,10 @@
         <Neighborhood>Perdizes</Neighborhood>
         <Address>Rua Itapicuru</Address>
         <StreetNumber>900</StreetNumber>
-        <PostalCode>05006-000</PostalCode>
+        <PostalCode>05006000</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">3000</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">3000</RentalPrice>
         <Description><![CDATA[Apartamento com sacada, andar intermediário. Cozinha com armários. Localização excelente, próximo à PUC.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">75</LotArea>
@@ -930,6 +1000,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0027_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0027_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0027_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0027_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0027_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -950,10 +1024,10 @@
         <Neighborhood>Cambuci</Neighborhood>
         <Address>Avenida Lins de Vasconcelos</Address>
         <StreetNumber>2500</StreetNumber>
-        <PostalCode>01538-001</PostalCode>
+        <PostalCode>01538001</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">2900</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">2900</RentalPrice>
         <Description><![CDATA[Condomínio novo com lazer completo. Apartamento nunca habitado. Varanda com churrasqueira. Fácil acesso ao centro.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">68</LotArea>
@@ -964,6 +1038,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0028_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0028_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0028_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0028_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0028_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -984,10 +1062,10 @@
         <Neighborhood>Perdizes</Neighborhood>
         <Address>Rua Turiassu</Address>
         <StreetNumber>1500</StreetNumber>
-        <PostalCode>05005-001</PostalCode>
+        <PostalCode>05005001</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">5500</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">5500</RentalPrice>
         <Description><![CDATA[Apartamento de alto padrão para locação. Andar alto, vista livre. Varanda gourmet. Condomínio clube.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">120</LotArea>
@@ -998,6 +1076,10 @@
         <Suites>2</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0029_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0029_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0029_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0029_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0029_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1018,10 +1100,10 @@
         <Neighborhood>Belenzinho</Neighborhood>
         <Address>Rua Siqueira Bueno</Address>
         <StreetNumber>1800</StreetNumber>
-        <PostalCode>03172-010</PostalCode>
+        <PostalCode>03172010</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">2400</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">2400</RentalPrice>
         <Description><![CDATA[A 5 minutos do metrô. Apartamento bem conservado, com piso frio e armários na cozinha.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">55</LotArea>
@@ -1032,6 +1114,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0030_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0030_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0030_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0030_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0030_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1052,10 +1138,10 @@
         <Neighborhood>Cerqueira César</Neighborhood>
         <Address>Rua da Consolação</Address>
         <StreetNumber>2200</StreetNumber>
-        <PostalCode>01302-001</PostalCode>
+        <PostalCode>01302001</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">2600</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">2600</RentalPrice>
         <Description><![CDATA[Prédio moderno com serviços. Studio com varanda e ar condicionado. Ótimo para quem trabalha na região.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">38</LotArea>
@@ -1066,6 +1152,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0031_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0031_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0031_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0031_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0031_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1086,10 +1176,10 @@
         <Neighborhood>Vila Mariana</Neighborhood>
         <Address>Rua Domingos de Morais</Address>
         <StreetNumber>1000</StreetNumber>
-        <PostalCode>04010-100</PostalCode>
+        <PostalCode>04010100</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">3500</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">3500</RentalPrice>
         <Description><![CDATA[Localização imbatível. Apartamento reformado, com cozinha integrada. Andar alto, silencioso.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">80</LotArea>
@@ -1100,6 +1190,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0032_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0032_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0032_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0032_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0032_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1120,10 +1214,10 @@
         <Neighborhood>Tamanduateí</Neighborhood>
         <Address>Avenida Industrial</Address>
         <StreetNumber>700</StreetNumber>
-        <PostalCode>09080-500</PostalCode>
+        <PostalCode>09080500</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">2000</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">2000</RentalPrice>
         <Description><![CDATA[Condomínio com piscina, em frente ao shopping. Fácil acesso ao trem.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">50</LotArea>
@@ -1134,6 +1228,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0033_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0033_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0033_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0033_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0033_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1154,10 +1252,10 @@
         <Neighborhood>Pompéia</Neighborhood>
         <Address>Rua Barão do Bananal</Address>
         <StreetNumber>1000</StreetNumber>
-        <PostalCode>05024-000</PostalCode>
+        <PostalCode>05024000</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">2700</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">2700</RentalPrice>
         <Description><![CDATA[Apartamento com varanda, cozinha americana. Próximo ao Sesc Pompéia.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">65</LotArea>
@@ -1168,6 +1266,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0034_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0034_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0034_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0034_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0034_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1188,10 +1290,10 @@
         <Neighborhood>República</Neighborhood>
         <Address>Avenida São João</Address>
         <StreetNumber>1200</StreetNumber>
-        <PostalCode>01036-100</PostalCode>
+        <PostalCode>01036100</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">1800</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">1800</RentalPrice>
         <Description><![CDATA[Kitnet reformada e mobiliada, pronta para morar. Prédio com portaria 24h, próximo ao metrô República.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">30</LotArea>
@@ -1202,6 +1304,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0035_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0035_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0035_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0035_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0035_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1222,10 +1328,10 @@
         <Neighborhood>Vila Madalena</Neighborhood>
         <Address>Rua Harmonia</Address>
         <StreetNumber>800</StreetNumber>
-        <PostalCode>05435-001</PostalCode>
+        <PostalCode>05435001</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">4800</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">4800</RentalPrice>
         <Description><![CDATA[Apartamento de design, com acabamentos de qualidade. Andar alto com vista. Prédio com piscina e academia.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">95</LotArea>
@@ -1236,6 +1342,10 @@
         <Suites>2</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0036_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0036_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0036_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0036_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0036_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1256,10 +1366,10 @@
         <Neighborhood>Jardim</Neighborhood>
         <Address>Rua das Figueiras</Address>
         <StreetNumber>1500</StreetNumber>
-        <PostalCode>09080-301</PostalCode>
+        <PostalCode>09080301</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">3300</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">3300</RentalPrice>
         <Description><![CDATA[Amplo apartamento no bairro mais charmoso de Santo André. Varanda, cozinha planejada.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">82</LotArea>
@@ -1270,6 +1380,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0037_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0037_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0037_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0037_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0037_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1290,10 +1404,10 @@
         <Neighborhood>Brooklin</Neighborhood>
         <Address>Rua Nebraska</Address>
         <StreetNumber>400</StreetNumber>
-        <PostalCode>04560-011</PostalCode>
+        <PostalCode>04560011</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">4000</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">4000</RentalPrice>
         <Description><![CDATA[Próximo à Berrini. Apartamento moderno, com varanda envidraçada. Condomínio com lazer completo, incluindo piscina aquecida.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">75</LotArea>
@@ -1304,6 +1418,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0038_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0038_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0038_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0038_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0038_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1324,10 +1442,10 @@
         <Neighborhood>Vila Galvão</Neighborhood>
         <Address>Avenida Timóteo Penteado</Address>
         <StreetNumber>3000</StreetNumber>
-        <PostalCode>07061-001</PostalCode>
+        <PostalCode>07061001</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">2100</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">2100</RentalPrice>
         <Description><![CDATA[Condomínio com segurança 24h e lazer. Apartamento com piso laminado e armários na cozinha.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">52</LotArea>
@@ -1338,6 +1456,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0039_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0039_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0039_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0039_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0039_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1358,10 +1480,10 @@
         <Neighborhood>Consolação</Neighborhood>
         <Address>Rua Frei Caneca</Address>
         <StreetNumber>800</StreetNumber>
-        <PostalCode>01307-002</PostalCode>
+        <PostalCode>01307002</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">3000</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">3000</RentalPrice>
         <Description><![CDATA[Studio com varanda, mobiliado. Próximo à Paulista e Shopping Frei Caneca. Ideal para quem busca praticidade.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">42</LotArea>
@@ -1372,6 +1494,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0040_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0040_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0040_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0040_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0040_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1395,7 +1521,7 @@
         <PostalCode>03307-000</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">2600</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">2600</RentalPrice>
         <Description><![CDATA[Excelente localização, a 500m do metrô. Apartamento com varanda. Prédio com piscina e academia.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">65</LotArea>
@@ -1406,6 +1532,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0041_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0041_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0041_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0041_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0041_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1426,10 +1556,10 @@
         <Neighborhood>Paraíso</Neighborhood>
         <Address>Rua Afonso de Freitas</Address>
         <StreetNumber>500</StreetNumber>
-        <PostalCode>04006-052</PostalCode>
+        <PostalCode>04006052</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">3900</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">3900</RentalPrice>
         <Description><![CDATA[Espaçoso, iluminado. Próximo ao metrô e Av. Paulista. Ideal para quem busca espaço e localização.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">90</LotArea>
@@ -1440,6 +1570,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0042_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0042_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0042_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0042_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0042_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1460,10 +1594,10 @@
         <Neighborhood>Aricanduva</Neighborhood>
         <Address>Avenida Aricanduva</Address>
         <StreetNumber>5555</StreetNumber>
-        <PostalCode>03930-110</PostalCode>
+        <PostalCode>03930110</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">1900</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">1900</RentalPrice>
         <Description><![CDATA[More com toda a comodidade do shopping ao lado. Condomínio com lazer completo e segurança.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">48</LotArea>
@@ -1474,6 +1608,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0043_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0043_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0043_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0043_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0043_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1494,10 +1632,10 @@
         <Neighborhood>Pinheiros</Neighborhood>
         <Address>Rua Teodoro Sampaio</Address>
         <StreetNumber>2000</StreetNumber>
-        <PostalCode>05406-200</PostalCode>
+        <PostalCode>05406200</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">2500</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">2500</RentalPrice>
         <Description><![CDATA[Prático e bem localizado, perto do metrô Clínicas. Condomínio com academia e lavanderia.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">36</LotArea>
@@ -1508,6 +1646,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0044_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0044_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0044_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0044_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0044_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1528,10 +1670,10 @@
         <Neighborhood>Vila Clementino</Neighborhood>
         <Address>Rua Sena Madureira</Address>
         <StreetNumber>1000</StreetNumber>
-        <PostalCode>04021-001</PostalCode>
+        <PostalCode>04021001</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">3100</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">3100</RentalPrice>
         <Description><![CDATA[Próximo a hospitais e ao Parque Ibirapuera. Apartamento com armários e varanda.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">72</LotArea>
@@ -1542,6 +1684,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0045_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0045_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0045_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0045_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0045_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1562,10 +1708,10 @@
         <Neighborhood>Jardins</Neighborhood>
         <Address>Alameda Jaú</Address>
         <StreetNumber>1500</StreetNumber>
-        <PostalCode>01420-002</PostalCode>
+        <PostalCode>01420002</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">8000</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">8000</RentalPrice>
         <Description><![CDATA[Totalmente mobiliado e decorado. Andar alto, com vista. A duas quadras da Oscar Freire.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">140</LotArea>
@@ -1576,6 +1722,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0046_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0046_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0046_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0046_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0046_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1596,10 +1746,10 @@
         <Neighborhood>Paraíso</Neighborhood>
         <Address>Rua Curitiba</Address>
         <StreetNumber>400</StreetNumber>
-        <PostalCode>04005-030</PostalCode>
+        <PostalCode>04005030</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">6500</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">6500</RentalPrice>
         <Description><![CDATA[Pronto para morar, com móveis de design e eletrodomésticos. Prédio com piscina e academia.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">110</LotArea>
@@ -1610,6 +1760,10 @@
         <Suites>2</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0047_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0047_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0047_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0047_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0047_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1630,10 +1784,10 @@
         <Neighborhood>Itaim Bibi</Neighborhood>
         <Address>Rua Professor Atílio Innocenti</Address>
         <StreetNumber>600</StreetNumber>
-        <PostalCode>04538-001</PostalCode>
+        <PostalCode>04538001</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">9500</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">9500</RentalPrice>
         <Description><![CDATA[Localização premium. Apartamento com automação, varanda gourmet e decoração moderna. Condomínio com serviços.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">130</LotArea>
@@ -1644,6 +1798,10 @@
         <Suites>2</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0048_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0048_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0048_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0048_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0048_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1664,10 +1822,10 @@
         <Neighborhood>Itaim Bibi</Neighborhood>
         <Address>Avenida Brigadeiro Faria Lima</Address>
         <StreetNumber>4000</StreetNumber>
-        <PostalCode>04538-132</PostalCode>
+        <PostalCode>04538132</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">7200</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">7200</RentalPrice>
         <Description><![CDATA[Ideal para executivos. Totalmente equipado, com serviços de limpeza inclusos no condomínio. Lazer completo.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">100</LotArea>
@@ -1678,6 +1836,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0049_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0049_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0049_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0049_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0049_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1701,7 +1863,7 @@
         <PostalCode>04542-200</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">12000</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">12000</RentalPrice>
         <Description><![CDATA[Espaçoso e elegante, com móveis de alta qualidade. Varanda com vista para o bairro. Prédio com segurança reforçada.]]></Description>
         <PropertyType>Residential / Apartment</PropertyType>
         <LotArea unit="square metres">160</LotArea>
@@ -1712,6 +1874,10 @@
         <Suites>2</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0050_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0050_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0050_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/AP0050_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/AP0050_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1732,7 +1898,7 @@
         <Neighborhood>Alphaville</Neighborhood>
         <Address>Alameda Rio Negro</Address>
         <StreetNumber>1000</StreetNumber>
-        <PostalCode>06454-000</PostalCode>
+        <PostalCode>06454000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">4800000</ListPrice>
@@ -1746,6 +1912,10 @@
         <Suites>4</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0001_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0001_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0001_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0001_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0001_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1766,7 +1936,7 @@
         <Neighborhood>Alphaville</Neighborhood>
         <Address>Alameda Mamoré</Address>
         <StreetNumber>800</StreetNumber>
-        <PostalCode>06454-040</PostalCode>
+        <PostalCode>06454040</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">7200000</ListPrice>
@@ -1780,6 +1950,10 @@
         <Suites>5</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0002_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0002_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0002_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0002_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0002_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1800,7 +1974,7 @@
         <Neighborhood>Morumbi</Neighborhood>
         <Address>Avenida Doutor Guilherme Dumont Vilares</Address>
         <StreetNumber>2000</StreetNumber>
-        <PostalCode>05640-004</PostalCode>
+        <PostalCode>05640004</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">3500000</ListPrice>
@@ -1814,6 +1988,10 @@
         <Suites>2</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0003_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0003_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0003_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0003_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0003_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1834,7 +2012,7 @@
         <Neighborhood>Jardim Europa</Neighborhood>
         <Address>Rua Suécia</Address>
         <StreetNumber>300</StreetNumber>
-        <PostalCode>01445-020</PostalCode>
+        <PostalCode>01445020</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">6500000</ListPrice>
@@ -1848,6 +2026,10 @@
         <Suites>4</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0004_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0004_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0004_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0004_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0004_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1868,7 +2050,7 @@
         <Neighborhood>Aldeia da Serra</Neighborhood>
         <Address>Estrada de Aldeia</Address>
         <StreetNumber>500</StreetNumber>
-        <PostalCode>06519-300</PostalCode>
+        <PostalCode>06519300</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">3900000</ListPrice>
@@ -1882,6 +2064,10 @@
         <Suites>4</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0005_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0005_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0005_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0005_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0005_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1917,6 +2103,10 @@
       </Details>
       <Media>
         <Item medium="image">https://cdn.example.com/pei/CA0006_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0006_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0006_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0006_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0006_1.jpg</Item>
       </Media>
       <ContactInfo>
         <Name>Primeira Escolha Imoveis</Name>
@@ -1936,7 +2126,7 @@
         <Neighborhood>Alto de Pinheiros</Neighborhood>
         <Address>Rua dos Macunis</Address>
         <StreetNumber>400</StreetNumber>
-        <PostalCode>05444-000</PostalCode>
+        <PostalCode>05444000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">4500000</ListPrice>
@@ -1950,6 +2140,10 @@
         <Suites>2</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0007_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0007_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0007_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0007_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0007_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -1970,7 +2164,7 @@
         <Neighborhood>City Boaçava</Neighborhood>
         <Address>Rua David Pimenta</Address>
         <StreetNumber>200</StreetNumber>
-        <PostalCode>05463-030</PostalCode>
+        <PostalCode>05463030</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">3100000</ListPrice>
@@ -1984,6 +2178,10 @@
         <Suites>3</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0008_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0008_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0008_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0008_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0008_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2004,7 +2202,7 @@
         <Neighborhood>Tamboré</Neighborhood>
         <Address>Alameda América</Address>
         <StreetNumber>900</StreetNumber>
-        <PostalCode>06543-315</PostalCode>
+        <PostalCode>06543315</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">5500000</ListPrice>
@@ -2018,6 +2216,10 @@
         <Suites>5</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0009_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0009_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0009_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0009_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0009_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2038,7 +2240,7 @@
         <Neighborhood>Pacaembu</Neighborhood>
         <Address>Rua Ibsen</Address>
         <StreetNumber>100</StreetNumber>
-        <PostalCode>01235-010</PostalCode>
+        <PostalCode>01235010</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">3800000</ListPrice>
@@ -2052,6 +2254,10 @@
         <Suites>2</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0010_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0010_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0010_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0010_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0010_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2072,7 +2278,7 @@
         <Neighborhood>Lapa</Neighborhood>
         <Address>Rua Pio XI</Address>
         <StreetNumber>800</StreetNumber>
-        <PostalCode>05060-000</PostalCode>
+        <PostalCode>05060000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">950000</ListPrice>
@@ -2086,6 +2292,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0011_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0011_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0011_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0011_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0011_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2106,7 +2316,7 @@
         <Neighborhood>Vila Guilherme</Neighborhood>
         <Address>Rua Maria Cândida</Address>
         <StreetNumber>1500</StreetNumber>
-        <PostalCode>02071-003</PostalCode>
+        <PostalCode>02071003</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">850000</ListPrice>
@@ -2120,6 +2330,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0012_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0012_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0012_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0012_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0012_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2140,7 +2354,7 @@
         <Neighborhood>Jardim Santo Antônio</Neighborhood>
         <Address>Avenida João de Andrade</Address>
         <StreetNumber>2000</StreetNumber>
-        <PostalCode>06132-002</PostalCode>
+        <PostalCode>06132002</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">1200000</ListPrice>
@@ -2154,6 +2368,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0013_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0013_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0013_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0013_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0013_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2174,7 +2392,7 @@
         <Neighborhood>Mooca</Neighborhood>
         <Address>Rua Juventus</Address>
         <StreetNumber>500</StreetNumber>
-        <PostalCode>03124-020</PostalCode>
+        <PostalCode>03124020</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">980000</ListPrice>
@@ -2188,6 +2406,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0014_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0014_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0014_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0014_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0014_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2208,7 +2430,7 @@
         <Neighborhood>Parque dos Pássaros</Neighborhood>
         <Address>Rua das Paineiras</Address>
         <StreetNumber>300</StreetNumber>
-        <PostalCode>09780-000</PostalCode>
+        <PostalCode>09780000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">1500000</ListPrice>
@@ -2222,6 +2444,10 @@
         <Suites>2</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0015_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0015_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0015_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0015_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0015_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2242,7 +2468,7 @@
         <Neighborhood>Alto da Mooca</Neighborhood>
         <Address>Rua do Oratório</Address>
         <StreetNumber>2500</StreetNumber>
-        <PostalCode>03116-000</PostalCode>
+        <PostalCode>03116000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">790000</ListPrice>
@@ -2256,6 +2482,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0016_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0016_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0016_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0016_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0016_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2291,6 +2521,10 @@
       </Details>
       <Media>
         <Item medium="image">https://cdn.example.com/pei/CA0017_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0017_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0017_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0017_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0017_1.jpg</Item>
       </Media>
       <ContactInfo>
         <Name>Primeira Escolha Imoveis</Name>
@@ -2310,7 +2544,7 @@
         <Neighborhood>Casa Verde</Neighborhood>
         <Address>Rua Zanzibar</Address>
         <StreetNumber>400</StreetNumber>
-        <PostalCode>02512-010</PostalCode>
+        <PostalCode>02512010</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">650000</ListPrice>
@@ -2324,6 +2558,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0018_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0018_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0018_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0018_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0018_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2344,7 +2582,7 @@
         <Neighborhood>Macedo</Neighborhood>
         <Address>Avenida Paulo Faccini</Address>
         <StreetNumber>1800</StreetNumber>
-        <PostalCode>07111-000</PostalCode>
+        <PostalCode>07111000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">990000</ListPrice>
@@ -2358,6 +2596,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0019_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0019_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0019_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0019_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0019_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2378,7 +2620,7 @@
         <Neighborhood>Vila Madalena</Neighborhood>
         <Address>Rua Purpurina</Address>
         <StreetNumber>600</StreetNumber>
-        <PostalCode>05435-030</PostalCode>
+        <PostalCode>05435030</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">1300000</ListPrice>
@@ -2392,6 +2634,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0020_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0020_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0020_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0020_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0020_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2412,7 +2658,7 @@
         <Neighborhood>Lapa</Neighborhood>
         <Address>Rua Tonelero</Address>
         <StreetNumber>1200</StreetNumber>
-        <PostalCode>05056-001</PostalCode>
+        <PostalCode>05056001</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">1100000</ListPrice>
@@ -2426,6 +2672,10 @@
         <Suites>2</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0021_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0021_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0021_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0021_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0021_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2446,7 +2696,7 @@
         <Neighborhood>Swiss Park</Neighborhood>
         <Address>Rua Werner Goldberg</Address>
         <StreetNumber>157</StreetNumber>
-        <PostalCode>09781-220</PostalCode>
+        <PostalCode>09781220</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">1400000</ListPrice>
@@ -2460,6 +2710,10 @@
         <Suites>3</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0022_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0022_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0022_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0022_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0022_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2480,7 +2734,7 @@
         <Neighborhood>Brás</Neighborhood>
         <Address>Rua Turi</Address>
         <StreetNumber>300</StreetNumber>
-        <PostalCode>03008-010</PostalCode>
+        <PostalCode>03008010</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">880000</ListPrice>
@@ -2494,6 +2748,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0023_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0023_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0023_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0023_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0023_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2514,7 +2772,7 @@
         <Neighborhood>Parque das Nações</Neighborhood>
         <Address>Rua Equador</Address>
         <StreetNumber>100</StreetNumber>
-        <PostalCode>09280-260</PostalCode>
+        <PostalCode>09280260</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">950000</ListPrice>
@@ -2528,6 +2786,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0024_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0024_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0024_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0024_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0024_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2548,7 +2810,7 @@
         <Neighborhood>Alto de Pinheiros</Neighborhood>
         <Address>Rua Doutor Alberto Seabra</Address>
         <StreetNumber>1000</StreetNumber>
-        <PostalCode>05452-001</PostalCode>
+        <PostalCode>05452001</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">1600000</ListPrice>
@@ -2562,6 +2824,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0025_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0025_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0025_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0025_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0025_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2582,10 +2848,10 @@
         <Neighborhood>Vila Homero Thon</Neighborhood>
         <Address>Rua Giovanni Battista Pirelli</Address>
         <StreetNumber>1500</StreetNumber>
-        <PostalCode>09111-340</PostalCode>
+        <PostalCode>09111340</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">7500</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">7500</RentalPrice>
         <Description><![CDATA[Excelente casa em condomínio fechado, com segurança 24h e área de lazer. 3 dormitórios, sendo 2 suítes, e quintal com churrasqueira.]]></Description>
         <PropertyType>Residential / Home</PropertyType>
         <LotArea unit="square metres">220</LotArea>
@@ -2596,6 +2862,10 @@
         <Suites>2</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0026_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0026_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0026_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0026_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0026_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2616,10 +2886,10 @@
         <Neighborhood>Lapa</Neighborhood>
         <Address>Rua Cerro Corá</Address>
         <StreetNumber>2000</StreetNumber>
-        <PostalCode>05061-450</PostalCode>
+        <PostalCode>05061450</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">4500</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">4500</RentalPrice>
         <Description><![CDATA[Sobrado com 3 dorms, sala ampla, cozinha com armários e quintal pequeno. Bem localizado.]]></Description>
         <PropertyType>Residential / Home</PropertyType>
         <LotArea unit="square metres">160</LotArea>
@@ -2630,6 +2900,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0027_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0027_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0027_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0027_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0027_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2650,10 +2924,10 @@
         <Neighborhood>Alphaville</Neighborhood>
         <Address>Avenida Yojiro Takaoka</Address>
         <StreetNumber>5000</StreetNumber>
-        <PostalCode>06541-038</PostalCode>
+        <PostalCode>06541038</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">5500</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">5500</RentalPrice>
         <Description><![CDATA[Condomínio com lazer completo. Casa com 3 dormitórios e quintal. Ideal para famílias.]]></Description>
         <PropertyType>Residential / Home</PropertyType>
         <LotArea unit="square metres">200</LotArea>
@@ -2664,6 +2938,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0028_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0028_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0028_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0028_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0028_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2684,10 +2962,10 @@
         <Neighborhood>Lauzane Paulista</Neighborhood>
         <Address>Rua Conselheiro Moreira de Barros</Address>
         <StreetNumber>2800</StreetNumber>
-        <PostalCode>02430-001</PostalCode>
+        <PostalCode>02430001</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">3500</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">3500</RentalPrice>
         <Description><![CDATA[Casa térrea com 2 quartos, corredor lateral e edícula nos fundos. Quintal espaçoso.]]></Description>
         <PropertyType>Residential / Home</PropertyType>
         <LotArea unit="square metres">180</LotArea>
@@ -2698,6 +2976,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0029_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0029_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0029_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0029_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0029_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2718,10 +3000,10 @@
         <Neighborhood>Vila Romana</Neighborhood>
         <Address>Rua Tito</Address>
         <StreetNumber>1000</StreetNumber>
-        <PostalCode>05051-001</PostalCode>
+        <PostalCode>05051001</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">4000</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">4000</RentalPrice>
         <Description><![CDATA[3 dormitórios, sala, cozinha e um pequeno quintal. Localização excelente.]]></Description>
         <PropertyType>Residential / Home</PropertyType>
         <LotArea unit="square metres">150</LotArea>
@@ -2732,6 +3014,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0030_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0030_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0030_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0030_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0030_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2752,10 +3038,10 @@
         <Neighborhood>Granja Viana</Neighborhood>
         <Address>Estrada Fernando Nobre</Address>
         <StreetNumber>800</StreetNumber>
-        <PostalCode>06705-490</PostalCode>
+        <PostalCode>06705490</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">6000</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">6000</RentalPrice>
         <Description><![CDATA[Em condomínio com lago e muito verde. Casa com 4 dorms, lareira e quintal com churrasqueira.]]></Description>
         <PropertyType>Residential / Home</PropertyType>
         <LotArea unit="square metres">250</LotArea>
@@ -2766,6 +3052,10 @@
         <Suites>2</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0031_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0031_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0031_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0031_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0031_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2786,10 +3076,10 @@
         <Neighborhood>Saúde</Neighborhood>
         <Address>Rua Visconde de Inhaúma</Address>
         <StreetNumber>600</StreetNumber>
-        <PostalCode>04145-030</PostalCode>
+        <PostalCode>04145030</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">3800</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">3800</RentalPrice>
         <Description><![CDATA[Sobrado reformado, com 3 dorms (1 suíte) e 2 vagas. Cozinha com armários.]]></Description>
         <PropertyType>Residential / Home</PropertyType>
         <LotArea unit="square metres">140</LotArea>
@@ -2800,6 +3090,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0032_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0032_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0032_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0032_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0032_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2823,7 +3117,7 @@
         <PostalCode>09635-070</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">4800</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">4800</RentalPrice>
         <Description><![CDATA[Condomínio com poucas casas, ambiente familiar. 3 dorms e quintal privativo.]]></Description>
         <PropertyType>Residential / Home</PropertyType>
         <LotArea unit="square metres">160</LotArea>
@@ -2834,6 +3128,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0033_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0033_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0033_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0033_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0033_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2854,10 +3152,10 @@
         <Neighborhood>Tatuapé</Neighborhood>
         <Address>Rua Emília Marengo</Address>
         <StreetNumber>1200</StreetNumber>
-        <PostalCode>03336-000</PostalCode>
+        <PostalCode>03336000</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">3200</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">3200</RentalPrice>
         <Description><![CDATA[2 dormitórios, sendo 1 suíte. Sala, cozinha e área de serviço. Sem quintal.]]></Description>
         <PropertyType>Residential / Home</PropertyType>
         <LotArea unit="square metres">130</LotArea>
@@ -2868,6 +3166,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0034_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0034_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0034_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0034_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0034_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2888,10 +3190,10 @@
         <Neighborhood>Parque Imperial</Neighborhood>
         <Address>Rua Paracatu</Address>
         <StreetNumber>500</StreetNumber>
-        <PostalCode>04302-021</PostalCode>
+        <PostalCode>04302021</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">2800</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">2800</RentalPrice>
         <Description><![CDATA[Casa com 2 quartos, sala, cozinha, quintal e edícula. 1 vaga de garagem.]]></Description>
         <PropertyType>Residential / Home</PropertyType>
         <LotArea unit="square metres">120</LotArea>
@@ -2902,6 +3204,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0035_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0035_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0035_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0035_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0035_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2922,10 +3228,10 @@
         <Neighborhood>Morumbi</Neighborhood>
         <Address>Rua Chabad</Address>
         <StreetNumber>300</StreetNumber>
-        <PostalCode>05618-020</PostalCode>
+        <PostalCode>05618020</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">9000</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">9000</RentalPrice>
         <Description><![CDATA[Em condomínio de luxo. Casa com 4 dorms, piscina e jardim. Acabamentos de primeira.]]></Description>
         <PropertyType>Residential / Home</PropertyType>
         <LotArea unit="square metres">280</LotArea>
@@ -2936,6 +3242,10 @@
         <Suites>3</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0036_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0036_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0036_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0036_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0036_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2956,10 +3266,10 @@
         <Neighborhood>Vila Assunção</Neighborhood>
         <Address>Rua Coronel Ortiz</Address>
         <StreetNumber>700</StreetNumber>
-        <PostalCode>09030-540</PostalCode>
+        <PostalCode>09030540</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">3600</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">3600</RentalPrice>
         <Description><![CDATA[Ótima localização em Santo André. 3 dorms e 2 vagas.]]></Description>
         <PropertyType>Residential / Home</PropertyType>
         <LotArea unit="square metres">140</LotArea>
@@ -2970,6 +3280,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0037_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0037_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0037_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0037_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0037_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -2993,7 +3307,7 @@
         <PostalCode>03134-100</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">2500</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">2500</RentalPrice>
         <Description><![CDATA[Casa com 2 quartos, quintal. Próximo ao metrô.]]></Description>
         <PropertyType>Residential / Home</PropertyType>
         <LotArea unit="square metres">120</LotArea>
@@ -3004,6 +3318,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0038_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0038_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0038_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0038_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0038_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -3024,10 +3342,10 @@
         <Neighborhood>Jardim Brasil</Neighborhood>
         <Address>Rua Ática</Address>
         <StreetNumber>500</StreetNumber>
-        <PostalCode>02227-000</PostalCode>
+        <PostalCode>02227000</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">4200</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">4200</RentalPrice>
         <Description><![CDATA[3 dorms, quintal com churrasqueira. Condomínio com piscina.]]></Description>
         <PropertyType>Residential / Home</PropertyType>
         <LotArea unit="square metres">130</LotArea>
@@ -3038,6 +3356,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0039_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0039_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0039_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0039_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0039_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -3058,10 +3380,10 @@
         <Neighborhood>Sumarezinho</Neighborhood>
         <Address>Rua Heitor Penteado</Address>
         <StreetNumber>1500</StreetNumber>
-        <PostalCode>05438-100</PostalCode>
+        <PostalCode>05438100</PostalCode>
       </Location>
       <Details>
-        <ListPrice currency="BRL">3900</ListPrice>
+        <RentalPrice currency="BRL" period="Monthly">3900</RentalPrice>
         <Description><![CDATA[Ao lado do metrô Vila Madalena. 3 dorms, sala, cozinha.]]></Description>
         <PropertyType>Residential / Home</PropertyType>
         <LotArea unit="square metres">140</LotArea>
@@ -3072,6 +3394,10 @@
         <Suites>1</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0040_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0040_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0040_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/CA0040_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/CA0040_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -3092,7 +3418,7 @@
         <Neighborhood>Tamboré</Neighborhood>
         <Address>Alameda Mamoré</Address>
         <StreetNumber>500</StreetNumber>
-        <PostalCode>06544-040</PostalCode>
+        <PostalCode>06544040</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">2200000</ListPrice>
@@ -3105,6 +3431,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0001_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0001_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0001_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0001_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/TE0001_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -3125,7 +3455,7 @@
         <Neighborhood>Alphaville</Neighborhood>
         <Address>Alameda Cauaxi</Address>
         <StreetNumber>700</StreetNumber>
-        <PostalCode>06454-020</PostalCode>
+        <PostalCode>06454020</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">3500000</ListPrice>
@@ -3138,6 +3468,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0002_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0002_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0002_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0002_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/TE0002_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -3158,7 +3492,7 @@
         <Neighborhood>Vargem Grande Paulista</Neighborhood>
         <Address>Estrada de Caucaia do Alto</Address>
         <StreetNumber>4000</StreetNumber>
-        <PostalCode>06730-000</PostalCode>
+        <PostalCode>06730000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">1500000</ListPrice>
@@ -3171,6 +3505,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0003_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0003_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0003_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0003_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/TE0003_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -3191,7 +3529,7 @@
         <Neighborhood>Tamboré</Neighborhood>
         <Address>Avenida dos Lagos</Address>
         <StreetNumber>200</StreetNumber>
-        <PostalCode>06543-315</PostalCode>
+        <PostalCode>06543315</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">1800000</ListPrice>
@@ -3204,6 +3542,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0004_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0004_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0004_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0004_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/TE0004_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -3224,7 +3566,7 @@
         <Neighborhood>Alphaville</Neighborhood>
         <Address>Alameda Ipanema</Address>
         <StreetNumber>100</StreetNumber>
-        <PostalCode>06474-230</PostalCode>
+        <PostalCode>06474230</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">2500000</ListPrice>
@@ -3237,6 +3579,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0005_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0005_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0005_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0005_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/TE0005_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -3257,7 +3603,7 @@
         <Neighborhood>Centro</Neighborhood>
         <Address>Avenida dos Autonomistas</Address>
         <StreetNumber>5000</StreetNumber>
-        <PostalCode>06090-010</PostalCode>
+        <PostalCode>06090010</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">700000</ListPrice>
@@ -3270,6 +3616,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0006_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0006_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0006_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0006_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/TE0006_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -3290,7 +3640,7 @@
         <Neighborhood>Vila Augusta</Neighborhood>
         <Address>Avenida Guarulhos</Address>
         <StreetNumber>2000</StreetNumber>
-        <PostalCode>07021-000</PostalCode>
+        <PostalCode>07021000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">950000</ListPrice>
@@ -3303,6 +3653,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0007_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0007_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0007_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0007_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/TE0007_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -3323,7 +3677,7 @@
         <Neighborhood>Capão Redondo</Neighborhood>
         <Address>Estrada de Itapecerica</Address>
         <StreetNumber>8000</StreetNumber>
-        <PostalCode>05858-002</PostalCode>
+        <PostalCode>05858002</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">1200000</ListPrice>
@@ -3336,6 +3690,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0008_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0008_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0008_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0008_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/TE0008_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -3356,7 +3714,7 @@
         <Neighborhood>Mogi das Cruzes</Neighborhood>
         <Address>Rua Doutor Ricardo</Address>
         <StreetNumber>500</StreetNumber>
-        <PostalCode>08730-030</PostalCode>
+        <PostalCode>08730030</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">800000</ListPrice>
@@ -3369,6 +3727,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0009_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0009_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0009_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0009_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/TE0009_1.jpg</Item>
       </Media>
       <ContactInfo>
@@ -3389,7 +3751,7 @@
         <Neighborhood>Interlagos</Neighborhood>
         <Address>Avenida Interlagos</Address>
         <StreetNumber>5000</StreetNumber>
-        <PostalCode>04777-000</PostalCode>
+        <PostalCode>04777000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">1500000</ListPrice>
@@ -3402,6 +3764,10 @@
         <Suites>0</Suites>
       </Details>
       <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0010_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0010_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0010_1.jpg</Item>
+        <Item medium="image">https://cdn.example.com/pei/TE0010_1.jpg</Item>
         <Item medium="image">https://cdn.example.com/pei/TE0010_1.jpg</Item>
       </Media>
       <ContactInfo>

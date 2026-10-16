@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync">
+  <Header>
+    <Provider>Primeira Escolha Imoveis</Provider>
+    <Email>contato@primeiraescolhaimoveis.com.br</Email>
+    <ContactName>Ricardo Almeida</ContactName>
+    <PublishDate>2025-09-30-1500:00</PublishDate>
+    <Telephone>(11) 4004-1000</Telephone>
+  </Header>
+  <Listings>
+    <!-- Apartamento 1 - Luxo Itaim com 4 fotos -->
+    <Listing>
+      <ListingID>PEI-AP0001</ListingID>
+      <Title><![CDATA[Apartamento de Luxo 150m² com 3 Suítes no Itaim Bibi]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Itaim Bibi</Neighborhood>
+        <Address>Rua Joaquim Floriano</Address>
+        <StreetNumber>100</StreetNumber>
+        <PostalCode>04534-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3500000</ListPrice>
+        <Description><![CDATA[Apartamento impecável, andar alto com vista livre. Acabamentos de primeira linha, varanda gourmet integrada ao living e condomínio com lazer completo.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">150</LotArea>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bathrooms>5</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>3</Garage>
+        <Suites>3</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/apartamento-luxo-1.jpg</Item>
+        <Item medium="image">/img/apartamento-luxo-2.jpg</Item>
+        <Item medium="image">/img/apartamento-luxo-3.jpg</Item>
+        <Item medium="image">/img/apartamento-luxo-4.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    
+    <!-- Apartamento 2 - Moema com 3 fotos -->
+    <Listing>
+      <ListingID>PEI-AP0002</ListingID>
+      <Title><![CDATA[Espaçoso Apartamento em Moema Pássaros, 180m²]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Moema</Neighborhood>
+        <Address>Avenida República do Líbano</Address>
+        <StreetNumber>2050</StreetNumber>
+        <PostalCode>04502-002</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">4200000</ListPrice>
+        <Description><![CDATA[Localizado na melhor região de Moema, próximo ao Parque Ibirapuera. Apartamento amplo, iluminado e com 4 vagas de garagem.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">180</LotArea>
+        <LivingArea unit="square metres">180</LivingArea>
+        <Bathrooms>4</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage>4</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/apartamento-moema-1.jpg</Item>
+        <Item medium="image">/img/apartamento-moema-2.jpg</Item>
+        <Item medium="image">/img/apartamento-moema-3.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    
+    <!-- Apartamento 3 - Cobertura Jardins com 3 fotos -->
+    <Listing>
+      <ListingID>PEI-AP0003</ListingID>
+      <Title><![CDATA[Cobertura Duplex de Alto Padrão nos Jardins]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Jardins</Neighborhood>
+        <Address>Rua Haddock Lobo</Address>
+        <StreetNumber>1300</StreetNumber>
+        <PostalCode>01414-002</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">6800000</ListPrice>
+        <Description><![CDATA[Cobertura com piscina privativa e vista deslumbrante. Acabamentos de luxo, área social no piso superior. Localização premium.]]></Description>
+        <PropertyType>Residential / Penthouse</PropertyType>
+        <LotArea unit="square metres">250</LotArea>
+        <LivingArea unit="square metres">250</LivingArea>
+        <Bathrooms>5</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>4</Garage>
+        <Suites>3</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/cobertura-jardins-1.jpg</Item>
+        <Item medium="image">/img/cobertura-jardins-2.jpg</Item>
+        <Item medium="image">/img/cobertura-jardins-3.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    
+    <!-- Apartamento 4 - Vila Nova Conceição com 2 fotos -->
+    <Listing>
+      <ListingID>PEI-AP0004</ListingID>
+      <Title><![CDATA[Apartamento Moderno na Vila Nova Conceição]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Vila Nova Conceição</Neighborhood>
+        <Address>Rua Diogo Jácome</Address>
+        <StreetNumber>700</StreetNumber>
+        <PostalCode>04512-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3100000</ListPrice>
+        <Description><![CDATA[Reformado por arquiteto renomado. Cozinha americana, living para 2 ambientes e varanda. A poucos passos do parque.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">140</LotArea>
+        <LivingArea unit="square metres">140</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>3</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/vila-nova-1.jpg</Item>
+        <Item medium="image">/img/vila-nova-2.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    
+    <!-- Apartamento 5 - Itaim com Varanda e 3 fotos -->
+    <Listing>
+      <ListingID>PEI-AP0005</ListingID>
+      <Title><![CDATA[Apartamento 2 Suítes com Varanda Gourmet no Itaim]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Itaim Bibi</Neighborhood>
+        <Address>Rua Elvira Ferraz</Address>
+        <StreetNumber>250</StreetNumber>
+        <PostalCode>04552-040</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2900000</ListPrice>
+        <Description><![CDATA[Prédio novo com lazer completo. Andar alto, sol da manhã. Ideal para executivos e casais. Pronto para morar.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">120</LotArea>
+        <LivingArea unit="square metres">120</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/itaim-varanda-1.jpg</Item>
+        <Item medium="image">/img/itaim-varanda-2.jpg</Item>
+        <Item medium="image">/img/itaim-varanda-3.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    
+    <!-- Apartamento 6 - Perdizes para aluguel com 2 fotos -->
+    <Listing>
+      <ListingID>PEI-AP0020</ListingID>
+      <Title><![CDATA[Apartamento para Alugar em Perdizes, 100m² e 2 vagas]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Perdizes</Neighborhood>
+        <Address>Rua Monte Alegre</Address>
+        <StreetNumber>850</StreetNumber>
+        <PostalCode>05014-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">4500</ListPrice>
+        <Description><![CDATA[Amplo apartamento em rua tranquila de Perdizes. Bem iluminado, com armários embutidos nos quartos e cozinha. Próximo a comércios e faculdades.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">100</LotArea>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+        <PropertyTax currency="BRL">350</PropertyTax>
+        <CondominiumFee currency="BRL">800</CondominiumFee>
+      </Details>
+      <Media>
+        <Item medium="image">/img/perdizes-1.jpg</Item>
+        <Item medium="image">/img/perdizes-2.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    
+    <!-- Apartamento 7 - Brooklin -->
+    <Listing>
+      <ListingID>PEI-AP0021</ListingID>
+      <Title><![CDATA[Apartamento Novo no Brooklin, 95m² com 2 Suítes]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Brooklin</Neighborhood>
+        <Address>Rua Flórida</Address>
+        <StreetNumber>1200</StreetNumber>
+        <PostalCode>04565-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1850000</ListPrice>
+        <Description><![CDATA[Empreendimento novo no coração do Brooklin. Apartamento com acabamentos modernos, varanda integrada e lazer de resort. Próximo ao metrô.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">95</LotArea>
+        <LivingArea unit="square metres">95</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/brooklin-1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    
+    <!-- Apartamento 8 - Higienópolis -->
+    <Listing>
+      <ListingID>PEI-AP0022</ListingID>
+      <Title><![CDATA[Clássico Apartamento em Higienópolis, 140m²]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Higienópolis</Neighborhood>
+        <Address>Avenida Higienópolis</Address>
+        <StreetNumber>800</StreetNumber>
+        <PostalCode>01238-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2200000</ListPrice>
+        <Description><![CDATA[Apartamento clássico em um dos bairros mais tradicionais de São Paulo. Pé direito alto, ambientes amplos e muito charme arquitetônico.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">140</LotArea>
+        <LivingArea unit="square metres">140</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/higienopolis-1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    
+    <!-- Apartamento 9 - Vila Madalena -->
+    <Listing>
+      <ListingID>PEI-AP0023</ListingID>
+      <Title><![CDATA[Loft Moderno na Vila Madalena, 85m²]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Vila Madalena</Neighborhood>
+        <Address>Rua Harmonia</Address>
+        <StreetNumber>500</StreetNumber>
+        <PostalCode>05435-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3800</ListPrice>
+        <Description><![CDATA[Loft moderno no coração da Vila Madalena. Design contemporâneo, pé direito alto e localização privilegiada próxima a bares e restaurantes.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">85</LotArea>
+        <LivingArea unit="square metres">85</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>1</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+        <PropertyTax currency="BRL">280</PropertyTax>
+        <CondominiumFee currency="BRL">650</CondominiumFee>
+      </Details>
+      <Media>
+        <Item medium="image">/img/vila-madalena-1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    
+    <!-- Apartamento 10 - Saúde -->
+    <Listing>
+      <ListingID>PEI-AP0024</ListingID>
+      <Title><![CDATA[Apartamento Familiar na Saúde, 110m² com 3 Quartos]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Saúde</Neighborhood>
+        <Address>Rua Borges Lagoa</Address>
+        <StreetNumber>1500</StreetNumber>
+        <PostalCode>04038-032</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">980000</ListPrice>
+        <Description><![CDATA[Apartamento familiar em excelente localização na Saúde. Próximo ao metrô e com fácil acesso a hospitais e universidades. Ótimo custo-benefício.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">110</LotArea>
+        <LivingArea unit="square metres">110</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/saude-1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+  </Listings>
+</ListingDataFeed>

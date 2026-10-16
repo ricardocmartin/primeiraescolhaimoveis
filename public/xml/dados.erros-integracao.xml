@@ -1,0 +1,3415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListingDataFeed xmlns="http://www.vivareal.com/schemas/1.0/VRSync" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vivareal.com/schemas/1.0/VRSync">
+  <Header>
+    <Provider>Primeira Escolha Imoveis</Provider>
+    <Email>contato@primeiraescolhaimoveis.com.br</Email>
+    <ContactName>Ricardo Almeida</ContactName>
+    <PublishDate>2025-09-29-1803:22</PublishDate>
+    <Telephone>(11) 4004-1000</Telephone>
+  </Header>
+  <Listings>
+    <Listing>
+      <ListingID>PEI-AP0001</ListingID>
+      <Title><![CDATA[Apartamento de Luxo 150m² com 3 Suítes no Itaim Bibi]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Itaim Bibi</Neighborhood>
+        <Address>Rua Joaquim Floriano</Address>
+        <StreetNumber>100</StreetNumber>
+        <PostalCode>04534-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3500000</ListPrice>
+        <Description><![CDATA[Apartamento impecável, andar alto com vista livre. Acabamentos de primeira linha, varanda gourmet integrada ao living e condomínio com lazer completo.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">150</LotArea>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bathrooms>5</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>3</Garage>
+        <Suites>3</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/apartamento-luxo-1.jpg</Item>
+        <Item medium="image">/img/apartamento-luxo-2.jpg</Item>
+        <Item medium="image">/img/apartamento-luxo-3.jpg</Item>
+        <Item medium="image">/img/apartamento-luxo-4.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0002</ListingID>
+      <Title><![CDATA[Espaçoso Apartamento em Moema Pássaros, 180m²]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Moema</Neighborhood>
+        <Address>Avenida República do Líbano</Address>
+        <StreetNumber>2050</StreetNumber>
+        <PostalCode>04502-002</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">4200000</ListPrice>
+        <Description><![CDATA[Localizado na melhor região de Moema, próximo ao Parque Ibirapuera. Apartamento amplo, iluminado e com 4 vagas de garagem.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">180</LotArea>
+        <LivingArea unit="square metres">180</LivingArea>
+        <Bathrooms>4</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage>4</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/apartamento-moema-1.jpg</Item>
+        <Item medium="image">/img/apartamento-moema-2.jpg</Item>
+        <Item medium="image">/img/apartamento-moema-3.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0003</ListingID>
+      <Title><![CDATA[Cobertura Duplex de Alto Padrão nos Jardins]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Jardins</Neighborhood>
+        <Address>Rua Haddock Lobo</Address>
+        <StreetNumber>1300</StreetNumber>
+        <PostalCode>01414-002</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">6800000</ListPrice>
+        <Description><![CDATA[Cobertura com piscina privativa e vista deslumbrante. Acabamentos de luxo, área social no piso superior. Localização premium.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">250</LotArea>
+        <LivingArea unit="square metres">250</LivingArea>
+        <Bathrooms>5</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>4</Garage>
+        <Suites>3</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/cobertura-jardins-1.jpg</Item>
+        <Item medium="image">/img/cobertura-jardins-2.jpg</Item>
+        <Item medium="image">/img/cobertura-jardins-3.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0004</ListingID>
+      <Title><![CDATA[Apartamento Moderno na Vila Nova Conceição]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Vila Nova Conceição</Neighborhood>
+        <Address>Rua Diogo Jácome</Address>
+        <StreetNumber>700</StreetNumber>
+        <PostalCode>04512-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3100000</ListPrice>
+        <Description><![CDATA[Reformado por arquiteto renomado. Cozinha americana, living para 2 ambientes e varanda. A poucos passos do parque.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">140</LotArea>
+        <LivingArea unit="square metres">140</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>3</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/vila-nova-1.jpg</Item>
+        <Item medium="image">/img/vila-nova-2.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0005</ListingID>
+      <Title><![CDATA[Apartamento 2 Suítes com Varanda Gourmet no Itaim]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Itaim Bibi</Neighborhood>
+        <Address>Rua Elvira Ferraz</Address>
+        <StreetNumber>250</StreetNumber>
+        <PostalCode>04552-040</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2900000</ListPrice>
+        <Description><![CDATA[Prédio novo com lazer completo. Andar alto, sol da manhã. Ideal para executivos e casais. Pronto para morar.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">120</LotArea>
+        <LivingArea unit="square metres">120</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/itaim-varanda-1.jpg</Item>
+        <Item medium="image">/img/itaim-varanda-2.jpg</Item>
+        <Item medium="image">/img/itaim-varanda-3.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0006</ListingID>
+      <Title><![CDATA[Apartamento 4 Suítes em Moema - Alto Padrão]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Moema</Neighborhood>
+        <Address>Avenida Sabiá</Address>
+        <StreetNumber>800</StreetNumber>
+        <PostalCode>04515-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">4500000</ListPrice>
+        <Description><![CDATA[Apartamento com 1 por andar, elevador privativo. Living amplo com terraço. Suíte master com closet e hidromassagem.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">200</LotArea>
+        <LivingArea unit="square metres">200</LivingArea>
+        <Bathrooms>6</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage>4</Garage>
+        <Suites>4</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/apartamento-moema-1.jpg</Item>
+        <Item medium="image">/img/apartamento-moema-2.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0007</ListingID>
+      <Title><![CDATA[Loft Duplex com Design Industrial nos Jardins]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Jardins</Neighborhood>
+        <Address>Rua Doutor Melo Alves</Address>
+        <StreetNumber>500</StreetNumber>
+        <PostalCode>01417-010</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2500000</ListPrice>
+        <Description><![CDATA[Loft com pé direito duplo, mezanino e acabamentos em cimento queimado. Cozinha gourmet e automação residencial.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">110</LotArea>
+        <LivingArea unit="square metres">110</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>1</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/cobertura-jardins-2.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0008</ListingID>
+      <Title><![CDATA[Apartamento de Luxo 165m² no Coração do Itaim]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Itaim Bibi</Neighborhood>
+        <Address>Rua Escobar Ortiz</Address>
+        <StreetNumber>500</StreetNumber>
+        <PostalCode>04512-050</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3800000</ListPrice>
+        <Description><![CDATA[Edifício cobiçado, apartamento com planta inteligente e acabamentos de alta qualidade. Varanda espaçosa e lazer de clube.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">165</LotArea>
+        <LivingArea unit="square metres">165</LivingArea>
+        <Bathrooms>4</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>3</Garage>
+        <Suites>3</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0008_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0009</ListingID>
+      <Title><![CDATA[Excelente Apartamento 95m² com varanda no Tatuapé]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Tatuapé</Neighborhood>
+        <Address>Rua Itapura</Address>
+        <StreetNumber>500</StreetNumber>
+        <PostalCode>03310-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">850000</ListPrice>
+        <Description><![CDATA[Ótima oportunidade no coração do Tatuapé. Apartamento com planta bem distribuída, varanda com churrasqueira e condomínio clube.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">95</LotArea>
+        <LivingArea unit="square metres">95</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0009_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0010</ListingID>
+      <Title><![CDATA[Apartamento Novo com 2 dorms (1 suíte) em SBC]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Bernardo do Campo</City>
+        <Neighborhood>Baeta Neves</Neighborhood>
+        <Address>Avenida Pereira Barreto</Address>
+        <StreetNumber>400</StreetNumber>
+        <PostalCode>09751-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">650000</ListPrice>
+        <Description><![CDATA[Ideal para quem busca o primeiro imóvel. Pronto para morar, próximo a shoppings e com fácil acesso a São Paulo. Condomínio com lazer completo.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">75</LotArea>
+        <LivingArea unit="square metres">75</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0010_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0011</ListingID>
+      <Title><![CDATA[Apartamento 110m² para Venda em Pinheiros]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Pinheiros</Neighborhood>
+        <Address>Rua dos Pinheiros</Address>
+        <StreetNumber>1500</StreetNumber>
+        <PostalCode>05422-002</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1200000</ListPrice>
+        <Description><![CDATA[Localização privilegiada, próximo ao metrô Faria Lima. Andar alto, ensolarado, com varanda. Prédio com piscina e academia.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">110</LotArea>
+        <LivingArea unit="square metres">110</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0011_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0012</ListingID>
+      <Title><![CDATA[Oportunidade em Santana, 85m² com 3 Quartos]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Santana</Neighborhood>
+        <Address>Rua Doutor César</Address>
+        <StreetNumber>900</StreetNumber>
+        <PostalCode>02013-002</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">780000</ListPrice>
+        <Description><![CDATA[Apartamento bem conservado em rua tranquila de Santana. Armários planejados na cozinha e quartos. Varanda com vista livre.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">85</LotArea>
+        <LivingArea unit="square metres">85</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0012_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0013</ListingID>
+      <Title><![CDATA[Apartamento Garden com Quintal Privativo na Vila Madalena]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Vila Madalena</Neighborhood>
+        <Address>Rua Heitor Penteado</Address>
+        <StreetNumber>2000</StreetNumber>
+        <PostalCode>05438-300</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">950000</ListPrice>
+        <Description><![CDATA[Sinta-se em uma casa! Apartamento térreo com quintal espaçoso e churrasqueira. Perfeito para quem tem pets. Próximo ao metrô.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">130</LotArea>
+        <LivingArea unit="square metres">130</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0013_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0014</ListingID>
+      <Title><![CDATA[Apartamento 2 Dorms no Melhor Bairro de SBC]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Bernardo do Campo</City>
+        <Neighborhood>Jardim do Mar</Neighborhood>
+        <Address>Avenida Kennedy</Address>
+        <StreetNumber>700</StreetNumber>
+        <PostalCode>09726-253</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">550000</ListPrice>
+        <Description><![CDATA[Ótimo custo-benefício. Cozinha com planejados, piso laminado e varanda. Condomínio com lazer e segurança.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">65</LotArea>
+        <LivingArea unit="square metres">65</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0014_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0015</ListingID>
+      <Title><![CDATA[Apartamento 100m² com 2 Suítes e Varanda Gourmet]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Tatuapé</Neighborhood>
+        <Address>Rua Serra de Bragança</Address>
+        <StreetNumber>1200</StreetNumber>
+        <PostalCode>03318-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">890000</ListPrice>
+        <Description><![CDATA[Prédio seminovo, apartamento com acabamentos modernos. Varanda envidraçada. Localizado próximo ao Shopping Anália Franco.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">100</LotArea>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0015_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0016</ListingID>
+      <Title><![CDATA[Lindo Apartamento no Bairro Jardim em Santo André]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Santo André</City>
+        <Neighborhood>Jardim Santo André</Neighborhood>
+        <Address>Rua Dom Lino Deodato</Address>
+        <StreetNumber>50</StreetNumber>
+        <PostalCode>09090-090</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">720000</ListPrice>
+        <Description><![CDATA[Apartamento charmoso e bem localizado no bairro mais nobre de Santo André. Próximo ao parque e comércios.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">80</LotArea>
+        <LivingArea unit="square metres">80</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0016_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0017</ListingID>
+      <Title><![CDATA[Apartamento 130m² em Moema Índios - Oportunidade]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Moema</Neighborhood>
+        <Address>Alameda dos Maracatins</Address>
+        <StreetNumber>1000</StreetNumber>
+        <PostalCode>04089-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1500000</ListPrice>
+        <Description><![CDATA[Apartamento espaçoso que precisa de modernização. Ótima planta e localização. Fora da rota do aeroporto.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">130</LotArea>
+        <LivingArea unit="square metres">130</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0017_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0018</ListingID>
+      <Title><![CDATA[Apartamento 2 Dormitórios com Varanda em Santo André]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Santo André</City>
+        <Neighborhood>Vila Pires</Neighborhood>
+        <Address>Rua Paulo de Avelar</Address>
+        <StreetNumber>300</StreetNumber>
+        <PostalCode>09121-430</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">680000</ListPrice>
+        <Description><![CDATA[Pronto para morar, com piso porcelanato e móveis planejados. Condomínio com poucos anos de construção.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">70</LotArea>
+        <LivingArea unit="square metres">70</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0018_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0019</ListingID>
+      <Title><![CDATA[Apartamento à venda em Perdizes, próximo ao Allianz]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Perdizes</Neighborhood>
+        <Address>Rua Caraíbas</Address>
+        <StreetNumber>800</StreetNumber>
+        <PostalCode>05020-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">990000</ListPrice>
+        <Description><![CDATA[Amplo e iluminado, em rua arborizada. Próximo a escolas, padarias e comércios.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">105</LotArea>
+        <LivingArea unit="square metres">105</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0019_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0020</ListingID>
+      <Title><![CDATA[Apartamento Design na Vila Madalena, 3 Quartos (2 Suítes)]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Vila Madalena</Neighborhood>
+        <Address>Rua Fidalga</Address>
+        <StreetNumber>500</StreetNumber>
+        <PostalCode>05432-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1350000</ListPrice>
+        <Description><![CDATA[Edifício com arquitetura moderna. Apartamento com acabamentos de primeira, varanda ampla e vista para o bairro.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">120</LotArea>
+        <LivingArea unit="square metres">120</LivingArea>
+        <Bathrooms>4</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0020_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0021</ListingID>
+      <Title><![CDATA[Apartamento para Alugar em Perdizes, 100m² e 2 vagas]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Perdizes</Neighborhood>
+        <Address>Rua Cardoso de Almeida</Address>
+        <StreetNumber>1200</StreetNumber>
+        <PostalCode>05013-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">4500</ListPrice>
+        <Description><![CDATA[Amplo apartamento em rua tranquila de Perdizes. Bem iluminado, com armários embutidos nos quartos e cozinha. Próximo a comércios e faculdades.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">100</LotArea>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/perdizes-1.jpg</Item>
+        <Item medium="image">/img/perdizes-2.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0022</ListingID>
+      <Title><![CDATA[Studio Mobiliado para Locação na Vila Madalena]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Vila Madalena</Neighborhood>
+        <Address>Rua Aspicuelta</Address>
+        <StreetNumber>300</StreetNumber>
+        <PostalCode>05433-010</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2800</ListPrice>
+        <Description><![CDATA[Studio moderno e funcional, totalmente mobiliado. Condomínio com lavanderia coletiva, academia e piscina. A passos do metrô.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">40</LotArea>
+        <LivingArea unit="square metres">40</LivingArea>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>1</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/cobertura-jardins-1.jpg</Item>
+        <Item medium="image">/img/vila-madalena-1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0023</ListingID>
+      <Title><![CDATA[Apartamento 2 Dorms para Alugar no Ipiranga]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Ipiranga</Neighborhood>
+        <Address>Rua Bom Pastor</Address>
+        <StreetNumber>2000</StreetNumber>
+        <PostalCode>04203-002</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3200</ListPrice>
+        <Description><![CDATA[Apartamento com varanda, cozinha americana com armários. Condomínio com lazer. Próximo ao Museu do Ipiranga.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">70</LotArea>
+        <LivingArea unit="square metres">70</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/ipiranga-1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0024</ListingID>
+      <Title><![CDATA[Aluguel Apartamento 2 Quartos na Mooca]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Mooca</Neighborhood>
+        <Address>Rua da Mooca</Address>
+        <StreetNumber>3000</StreetNumber>
+        <PostalCode>03104-002</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2500</ListPrice>
+        <Description><![CDATA[Apartamento aconchegante, bem localizado, próximo a comércios tradicionais do bairro. Prédio com salão de festas e portaria.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">60</LotArea>
+        <LivingArea unit="square metres">60</LivingArea>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">/img/mooca-1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0025</ListingID>
+      <Title><![CDATA[Apartamento 3 Dorms (1 Suíte) para Locação na Vila Mariana]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Vila Mariana</Neighborhood>
+        <Address>Rua Pelotas</Address>
+        <StreetNumber>400</StreetNumber>
+        <PostalCode>04012-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3800</ListPrice>
+        <Description><![CDATA[Ótima localização, a 10 min a pé do metrô Ana Rosa. Apartamento espaçoso e com armários.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">85</LotArea>
+        <LivingArea unit="square metres">85</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0025_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0026</ListingID>
+      <Title><![CDATA[Studio Funcional na Consolação, próximo ao Mackenzie]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Consolação</Neighborhood>
+        <Address>Rua Augusta</Address>
+        <StreetNumber>1500</StreetNumber>
+        <PostalCode>01305-100</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2200</ListPrice>
+        <Description><![CDATA[Perfeito para estudantes. Mobiliado, com cozinha compacta. Condomínio com lavanderia e academia. Sem vaga de garagem.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">35</LotArea>
+        <LivingArea unit="square metres">35</LivingArea>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>1</Bedrooms>
+        <Garage>0</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0026_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0027</ListingID>
+      <Title><![CDATA[Alugue Apartamento 2 Quartos em Perdizes]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Perdizes</Neighborhood>
+        <Address>Rua Itapicuru</Address>
+        <StreetNumber>900</StreetNumber>
+        <PostalCode>05006-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3000</ListPrice>
+        <Description><![CDATA[Apartamento com sacada, andar intermediário. Cozinha com armários. Localização excelente, próximo à PUC.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">75</LotArea>
+        <LivingArea unit="square metres">75</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0027_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0028</ListingID>
+      <Title><![CDATA[Apartamento com Varanda Gourmet no Cambuci]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Cambuci</Neighborhood>
+        <Address>Avenida Lins de Vasconcelos</Address>
+        <StreetNumber>2500</StreetNumber>
+        <PostalCode>01538-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2900</ListPrice>
+        <Description><![CDATA[Condomínio novo com lazer completo. Apartamento nunca habitado. Varanda com churrasqueira. Fácil acesso ao centro.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">68</LotArea>
+        <LivingArea unit="square metres">68</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0028_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0029</ListingID>
+      <Title><![CDATA[Apartamento Amplo com 3 Dorms (2 Suítes) em Perdizes]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Perdizes</Neighborhood>
+        <Address>Rua Turiassu</Address>
+        <StreetNumber>1500</StreetNumber>
+        <PostalCode>05005-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">5500</ListPrice>
+        <Description><![CDATA[Apartamento de alto padrão para locação. Andar alto, vista livre. Varanda gourmet. Condomínio clube.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">120</LotArea>
+        <LivingArea unit="square metres">120</LivingArea>
+        <Bathrooms>4</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0029_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0030</ListingID>
+      <Title><![CDATA[Aluguel de Apartamento 2 Dorms próximo ao Metrô Belém]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Belenzinho</Neighborhood>
+        <Address>Rua Siqueira Bueno</Address>
+        <StreetNumber>1800</StreetNumber>
+        <PostalCode>03172-010</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2400</ListPrice>
+        <Description><![CDATA[A 5 minutos do metrô. Apartamento bem conservado, com piso frio e armários na cozinha.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">55</LotArea>
+        <LivingArea unit="square metres">55</LivingArea>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0030_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0031</ListingID>
+      <Title><![CDATA[Studio com Varanda perto da Paulista]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Cerqueira César</Neighborhood>
+        <Address>Rua da Consolação</Address>
+        <StreetNumber>2200</StreetNumber>
+        <PostalCode>01302-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2600</ListPrice>
+        <Description><![CDATA[Prédio moderno com serviços. Studio com varanda e ar condicionado. Ótimo para quem trabalha na região.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">38</LotArea>
+        <LivingArea unit="square metres">38</LivingArea>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>1</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0031_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0032</ListingID>
+      <Title><![CDATA[Apartamento 2 Dorms ao Lado do Metrô Vila Mariana]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Vila Mariana</Neighborhood>
+        <Address>Rua Domingos de Morais</Address>
+        <StreetNumber>1000</StreetNumber>
+        <PostalCode>04010-100</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3500</ListPrice>
+        <Description><![CDATA[Localização imbatível. Apartamento reformado, com cozinha integrada. Andar alto, silencioso.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">80</LotArea>
+        <LivingArea unit="square metres">80</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0032_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0033</ListingID>
+      <Title><![CDATA[Apartamento para Alugar em Santo André, 2 Quartos]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Santo André</City>
+        <Neighborhood>Tamanduateí</Neighborhood>
+        <Address>Avenida Industrial</Address>
+        <StreetNumber>700</StreetNumber>
+        <PostalCode>09080-500</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2000</ListPrice>
+        <Description><![CDATA[Condomínio com piscina, em frente ao shopping. Fácil acesso ao trem.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">50</LotArea>
+        <LivingArea unit="square metres">50</LivingArea>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0033_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0034</ListingID>
+      <Title><![CDATA[Aluguel na Pompéia, 2 Dorms (1 Suíte)]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Pompéia</Neighborhood>
+        <Address>Rua Barão do Bananal</Address>
+        <StreetNumber>1000</StreetNumber>
+        <PostalCode>05024-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2700</ListPrice>
+        <Description><![CDATA[Apartamento com varanda, cozinha americana. Próximo ao Sesc Pompéia.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">65</LotArea>
+        <LivingArea unit="square metres">65</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0034_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0035</ListingID>
+      <Title><![CDATA[Kitnet no Centro de São Paulo, Mobiliada]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>República</Neighborhood>
+        <Address>Avenida São João</Address>
+        <StreetNumber>1200</StreetNumber>
+        <PostalCode>01036-100</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1800</ListPrice>
+        <Description><![CDATA[Kitnet reformada e mobiliada, pronta para morar. Prédio com portaria 24h, próximo ao metrô República.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">30</LotArea>
+        <LivingArea unit="square metres">30</LivingArea>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>1</Bedrooms>
+        <Garage>0</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0035_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0036</ListingID>
+      <Title><![CDATA[Apartamento com 2 Suítes e Varanda na Vila Madalena]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Vila Madalena</Neighborhood>
+        <Address>Rua Harmonia</Address>
+        <StreetNumber>800</StreetNumber>
+        <PostalCode>05435-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">4800</ListPrice>
+        <Description><![CDATA[Apartamento de design, com acabamentos de qualidade. Andar alto com vista. Prédio com piscina e academia.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">95</LotArea>
+        <LivingArea unit="square metres">95</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0036_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0037</ListingID>
+      <Title><![CDATA[Aluguel Bairro Jardim, Santo André - 3 Dorms]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Santo André</City>
+        <Neighborhood>Jardim</Neighborhood>
+        <Address>Rua das Figueiras</Address>
+        <StreetNumber>1500</StreetNumber>
+        <PostalCode>09080-301</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3300</ListPrice>
+        <Description><![CDATA[Amplo apartamento no bairro mais charmoso de Santo André. Varanda, cozinha planejada.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">82</LotArea>
+        <LivingArea unit="square metres">82</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0037_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0038</ListingID>
+      <Title><![CDATA[Apto 2 Dorms para Alugar no Brooklin]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Brooklin</Neighborhood>
+        <Address>Rua Nebraska</Address>
+        <StreetNumber>400</StreetNumber>
+        <PostalCode>04560-011</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">4000</ListPrice>
+        <Description><![CDATA[Próximo à Berrini. Apartamento moderno, com varanda envidraçada. Condomínio com lazer completo, incluindo piscina aquecida.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">75</LotArea>
+        <LivingArea unit="square metres">75</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0038_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0039</ListingID>
+      <Title><![CDATA[Alugue Apartamento 2 Dorms em Guarulhos]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Guarulhos</City>
+        <Neighborhood>Vila Galvão</Neighborhood>
+        <Address>Avenida Timóteo Penteado</Address>
+        <StreetNumber>3000</StreetNumber>
+        <PostalCode>07061-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2100</ListPrice>
+        <Description><![CDATA[Condomínio com segurança 24h e lazer. Apartamento com piso laminado e armários na cozinha.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">52</LotArea>
+        <LivingArea unit="square metres">52</LivingArea>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0039_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0040</ListingID>
+      <Title><![CDATA[Studio Moderno com Serviços na Frei Caneca]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Consolação</Neighborhood>
+        <Address>Rua Frei Caneca</Address>
+        <StreetNumber>800</StreetNumber>
+        <PostalCode>01307-002</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3000</ListPrice>
+        <Description><![CDATA[Studio com varanda, mobiliado. Próximo à Paulista e Shopping Frei Caneca. Ideal para quem busca praticidade.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">42</LotArea>
+        <LivingArea unit="square metres">42</LivingArea>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>1</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0040_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0041</ListingID>
+      <Title><![CDATA[Apartamento 2 dorms (1 suíte) perto do Metrô Tatuapé]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Tatuapé</Neighborhood>
+        <Address>Rua Tuiuti</Address>
+        <StreetNumber>2000</StreetNumber>
+        <PostalCode>03307-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2600</ListPrice>
+        <Description><![CDATA[Excelente localização, a 500m do metrô. Apartamento com varanda. Prédio com piscina e academia.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">65</LotArea>
+        <LivingArea unit="square metres">65</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0041_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0042</ListingID>
+      <Title><![CDATA[Apartamento 3 Quartos para Alugar no Paraíso]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Paraíso</Neighborhood>
+        <Address>Rua Afonso de Freitas</Address>
+        <StreetNumber>500</StreetNumber>
+        <PostalCode>04006-052</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3900</ListPrice>
+        <Description><![CDATA[Espaçoso, iluminado. Próximo ao metrô e Av. Paulista. Ideal para quem busca espaço e localização.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">90</LotArea>
+        <LivingArea unit="square metres">90</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0042_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0043</ListingID>
+      <Title><![CDATA[Aluguel 2 Dorms no Condomínio do Shopping Aricanduva]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Aricanduva</Neighborhood>
+        <Address>Avenida Aricanduva</Address>
+        <StreetNumber>5555</StreetNumber>
+        <PostalCode>03930-110</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1900</ListPrice>
+        <Description><![CDATA[More com toda a comodidade do shopping ao lado. Condomínio com lazer completo e segurança.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">48</LotArea>
+        <LivingArea unit="square metres">48</LivingArea>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0043_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0044</ListingID>
+      <Title><![CDATA[Studio em Pinheiros, sem vaga]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Pinheiros</Neighborhood>
+        <Address>Rua Teodoro Sampaio</Address>
+        <StreetNumber>2000</StreetNumber>
+        <PostalCode>05406-200</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2500</ListPrice>
+        <Description><![CDATA[Prático e bem localizado, perto do metrô Clínicas. Condomínio com academia e lavanderia.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">36</LotArea>
+        <LivingArea unit="square metres">36</LivingArea>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>1</Bedrooms>
+        <Garage>0</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0044_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0045</ListingID>
+      <Title><![CDATA[Apartamento 2 Dorms na Vila Clementino]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Vila Clementino</Neighborhood>
+        <Address>Rua Sena Madureira</Address>
+        <StreetNumber>1000</StreetNumber>
+        <PostalCode>04021-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3100</ListPrice>
+        <Description><![CDATA[Próximo a hospitais e ao Parque Ibirapuera. Apartamento com armários e varanda.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">72</LotArea>
+        <LivingArea unit="square metres">72</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0045_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0046</ListingID>
+      <Title><![CDATA[Apartamento de Luxo para Locação nos Jardins]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Jardins</Neighborhood>
+        <Address>Alameda Jaú</Address>
+        <StreetNumber>1500</StreetNumber>
+        <PostalCode>01420-002</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">8000</ListPrice>
+        <Description><![CDATA[Totalmente mobiliado e decorado. Andar alto, com vista. A duas quadras da Oscar Freire.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">140</LotArea>
+        <LivingArea unit="square metres">140</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0046_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0047</ListingID>
+      <Title><![CDATA[Apartamento com 2 suítes Mobiliado no Paraíso]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Paraíso</Neighborhood>
+        <Address>Rua Curitiba</Address>
+        <StreetNumber>400</StreetNumber>
+        <PostalCode>04005-030</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">6500</ListPrice>
+        <Description><![CDATA[Pronto para morar, com móveis de design e eletrodomésticos. Prédio com piscina e academia.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">110</LotArea>
+        <LivingArea unit="square metres">110</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0047_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0048</ListingID>
+      <Title><![CDATA[Apartamento Mobiliado de Alto Padrão no Itaim]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Itaim Bibi</Neighborhood>
+        <Address>Rua Professor Atílio Innocenti</Address>
+        <StreetNumber>600</StreetNumber>
+        <PostalCode>04538-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">9500</ListPrice>
+        <Description><![CDATA[Localização premium. Apartamento com automação, varanda gourmet e decoração moderna. Condomínio com serviços.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">130</LotArea>
+        <LivingArea unit="square metres">130</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0048_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0049</ListingID>
+      <Title><![CDATA[Apto 1 Suíte Mobiliado na Faria Lima]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Itaim Bibi</Neighborhood>
+        <Address>Avenida Brigadeiro Faria Lima</Address>
+        <StreetNumber>4000</StreetNumber>
+        <PostalCode>04538-132</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">7200</ListPrice>
+        <Description><![CDATA[Ideal para executivos. Totalmente equipado, com serviços de limpeza inclusos no condomínio. Lazer completo.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">100</LotArea>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>1</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0049_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-AP0050</ListingID>
+      <Title><![CDATA[Apartamento de Luxo para Alugar no Itaim, Mobiliado]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Itaim Bibi</Neighborhood>
+        <Address>Rua Leopoldo Couto de Magalhães Júnior</Address>
+        <StreetNumber>1000</StreetNumber>
+        <PostalCode>04542-200</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">12000</ListPrice>
+        <Description><![CDATA[Espaçoso e elegante, com móveis de alta qualidade. Varanda com vista para o bairro. Prédio com segurança reforçada.]]></Description>
+        <PropertyType>Residential / Apartment</PropertyType>
+        <LotArea unit="square metres">160</LotArea>
+        <LivingArea unit="square metres">160</LivingArea>
+        <Bathrooms>4</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>3</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/AP0050_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0001</ListingID>
+      <Title><![CDATA[Casa de Luxo 450m² em Condomínio em Alphaville]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Barueri</City>
+        <Neighborhood>Alphaville</Neighborhood>
+        <Address>Alameda Rio Negro</Address>
+        <StreetNumber>1000</StreetNumber>
+        <PostalCode>06454-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">4800000</ListPrice>
+        <Description><![CDATA[Casa espetacular com projeto arquitetônico moderno, 4 suítes, piscina privativa, área gourmet e acabamentos de altíssimo padrão.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">550</LotArea>
+        <LivingArea unit="square metres">450</LivingArea>
+        <Bathrooms>6</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage>6</Garage>
+        <Suites>4</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0001_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0002</ListingID>
+      <Title><![CDATA[Mansão Cinematográfica em Alphaville]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Barueri</City>
+        <Neighborhood>Alphaville</Neighborhood>
+        <Address>Alameda Mamoré</Address>
+        <StreetNumber>800</StreetNumber>
+        <PostalCode>06454-040</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">7200000</ListPrice>
+        <Description><![CDATA[Propriedade de esquina com 5 suítes, home theater, academia, sauna e garagem para 8 carros. Privacidade e luxo absoluto.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">800</LotArea>
+        <LivingArea unit="square metres">600</LivingArea>
+        <Bathrooms>7</Bathrooms>
+        <Bedrooms>5</Bedrooms>
+        <Garage>8</Garage>
+        <Suites>5</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0002_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0003</ListingID>
+      <Title><![CDATA[Casa em Condomínio Fechado no Morumbi]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Morumbi</Neighborhood>
+        <Address>Avenida Doutor Guilherme Dumont Vilares</Address>
+        <StreetNumber>2000</StreetNumber>
+        <PostalCode>05640-004</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3500000</ListPrice>
+        <Description><![CDATA[Casa com muito verde, piscina e espaço gourmet. Living com lareira. Condomínio com segurança 24h.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">450</LotArea>
+        <LivingArea unit="square metres">400</LivingArea>
+        <Bathrooms>5</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage>4</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0003_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0004</ListingID>
+      <Title><![CDATA[Casa de Altíssimo Padrão no Jardim Europa]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Jardim Europa</Neighborhood>
+        <Address>Rua Suécia</Address>
+        <StreetNumber>300</StreetNumber>
+        <PostalCode>01445-020</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">6500000</ListPrice>
+        <Description><![CDATA[Localização nobre. Casa com jardim, piscina e edícula. Amplo living, suíte master com closet. Necessita de modernização.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">550</LotArea>
+        <LivingArea unit="square metres">500</LivingArea>
+        <Bathrooms>6</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage>5</Garage>
+        <Suites>4</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0004_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0005</ListingID>
+      <Title><![CDATA[Casa Térrea com Vista em Aldeia da Serra]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Santana de Parnaíba</City>
+        <Neighborhood>Aldeia da Serra</Neighborhood>
+        <Address>Estrada de Aldeia</Address>
+        <StreetNumber>500</StreetNumber>
+        <PostalCode>06519-300</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3900000</ListPrice>
+        <Description><![CDATA[Casa térrea com vista permanente para a reserva. Ambientes integrados, área gourmet e piscina com borda infinita.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">600</LotArea>
+        <LivingArea unit="square metres">420</LivingArea>
+        <Bathrooms>5</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage>4</Garage>
+        <Suites>4</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0005_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0006</ListingID>
+      <Title><![CDATA[Ótima Casa no Tamboré 3, Pronta para Morar]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Santana de Parnaíba</City>
+        <Neighborhood>Tamboré</Neighborhood>
+        <Address>Avenida Tamboré</Address>
+        <StreetNumber>1200</StreetNumber>
+        <PostalCode>06544-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2800000</ListPrice>
+        <Description><![CDATA[Casa com acabamentos clean, 3 suítes, escritório e home theater. Quintal com piscina e churrasqueira.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">400</LotArea>
+        <LivingArea unit="square metres">350</LivingArea>
+        <Bathrooms>5</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>4</Garage>
+        <Suites>3</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0006_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0007</ListingID>
+      <Title><![CDATA[Casa para Venda no Alto de Pinheiros]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Alto de Pinheiros</Neighborhood>
+        <Address>Rua dos Macunis</Address>
+        <StreetNumber>400</StreetNumber>
+        <PostalCode>05444-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">4500000</ListPrice>
+        <Description><![CDATA[Rua arborizada e tranquila. Casa com grande potencial para reforma. Amplo jardim e piscina.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">480</LotArea>
+        <LivingArea unit="square metres">400</LivingArea>
+        <Bathrooms>5</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage>4</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0007_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0008</ListingID>
+      <Title><![CDATA[Casa em Condomínio na City Boaçava]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>City Boaçava</Neighborhood>
+        <Address>Rua David Pimenta</Address>
+        <StreetNumber>200</StreetNumber>
+        <PostalCode>05463-030</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3100000</ListPrice>
+        <Description><![CDATA[Condomínio com poucas casas, muita privacidade. Casa com 4 dorms (3 suítes) e jardim privativo.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">420</LotArea>
+        <LivingArea unit="square metres">380</LivingArea>
+        <Bathrooms>5</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage>4</Garage>
+        <Suites>3</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0008_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0009</ListingID>
+      <Title><![CDATA[Casa de Luxo no Tamboré 1]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Santana de Parnaíba</City>
+        <Neighborhood>Tamboré</Neighborhood>
+        <Address>Alameda América</Address>
+        <StreetNumber>900</StreetNumber>
+        <PostalCode>06543-315</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">5500000</ListPrice>
+        <Description><![CDATA[Acabamentos em mármore, elevador, automação. 5 suítes, a master com 100m². Área de lazer completa.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">700</LotArea>
+        <LivingArea unit="square metres">550</LivingArea>
+        <Bathrooms>7</Bathrooms>
+        <Bedrooms>5</Bedrooms>
+        <Garage>6</Garage>
+        <Suites>5</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0009_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0010</ListingID>
+      <Title><![CDATA[Casa no Pacaembu com Piscina]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Pacaembu</Neighborhood>
+        <Address>Rua Ibsen</Address>
+        <StreetNumber>100</StreetNumber>
+        <PostalCode>01235-010</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3800000</ListPrice>
+        <Description><![CDATA[Casa clássica em rua tranquila. Living para vários ambientes, jardim e piscina. Necessita de modernização.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">400</LotArea>
+        <LivingArea unit="square metres">350</LivingArea>
+        <Bathrooms>4</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage>3</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0010_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0011</ListingID>
+      <Title><![CDATA[Sobrado Espaçoso na Lapa com Edícula]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Lapa</Neighborhood>
+        <Address>Rua Pio XI</Address>
+        <StreetNumber>800</StreetNumber>
+        <PostalCode>05060-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">950000</ListPrice>
+        <Description><![CDATA[Ótimo sobrado com 3 dormitórios, corredor lateral, quintal com edícula nos fundos. Perfeito para famílias.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">200</LotArea>
+        <LivingArea unit="square metres">180</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>3</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0011_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0012</ListingID>
+      <Title><![CDATA[Casa Térrea com Quintal na Vila Guilherme]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Vila Guilherme</Neighborhood>
+        <Address>Rua Maria Cândida</Address>
+        <StreetNumber>1500</StreetNumber>
+        <PostalCode>02071-003</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">850000</ListPrice>
+        <Description><![CDATA[Casa térrea isolada, com 3 quartos e quintal grande nos fundos. Garagem para 2 carros.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">250</LotArea>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0012_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0013</ListingID>
+      <Title><![CDATA[Casa em Condomínio em Osasco - 3 Dorms]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Osasco</City>
+        <Neighborhood>Jardim Santo Antônio</Neighborhood>
+        <Address>Avenida João de Andrade</Address>
+        <StreetNumber>2000</StreetNumber>
+        <PostalCode>06132-002</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1200000</ListPrice>
+        <Description><![CDATA[Sobrado em condomínio com lazer. 3 dorms (1 suíte), cozinha com planejados e quintal com churrasqueira.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">180</LotArea>
+        <LivingArea unit="square metres">160</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0013_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0014</ListingID>
+      <Title><![CDATA[Sobrado à Venda na Mooca]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Mooca</Neighborhood>
+        <Address>Rua Juventus</Address>
+        <StreetNumber>500</StreetNumber>
+        <PostalCode>03124-020</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">980000</ListPrice>
+        <Description><![CDATA[Sobrado clássico da Mooca, com corredor lateral e quintal. Bem conservado, com 3 dormitórios espaçosos.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">210</LotArea>
+        <LivingArea unit="square metres">190</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0014_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0015</ListingID>
+      <Title><![CDATA[Casa em Condomínio no Parque dos Pássaros - SBC]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Bernardo do Campo</City>
+        <Neighborhood>Parque dos Pássaros</Neighborhood>
+        <Address>Rua das Paineiras</Address>
+        <StreetNumber>300</StreetNumber>
+        <PostalCode>09780-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1500000</ListPrice>
+        <Description><![CDATA[Casa ampla com 4 dorms, piscina e churrasqueira. Condomínio com segurança e tranquilidade.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">250</LotArea>
+        <LivingArea unit="square metres">220</LivingArea>
+        <Bathrooms>4</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage>4</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0015_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0016</ListingID>
+      <Title><![CDATA[Vende-se Sobrado no Alto da Mooca]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Alto da Mooca</Neighborhood>
+        <Address>Rua do Oratório</Address>
+        <StreetNumber>2500</StreetNumber>
+        <PostalCode>03116-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">790000</ListPrice>
+        <Description><![CDATA[3 dormitórios, sala 2 ambientes, cozinha ampla e quintal. Garagem coberta.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">180</LotArea>
+        <LivingArea unit="square metres">160</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0016_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0017</ListingID>
+      <Title><![CDATA[Casa na Granja Viana - Condomínio Fechado]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Cotia</City>
+        <Neighborhood>Granja Viana</Neighborhood>
+        <Address>Rua Caiubi</Address>
+        <StreetNumber>100</StreetNumber>
+        <PostalCode>06708-615</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1100000</ListPrice>
+        <Description><![CDATA[Casa charmosa em condomínio com muito verde. 3 dorms, sala com lareira e quintal agradável.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">200</LotArea>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0017_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0018</ListingID>
+      <Title><![CDATA[Casa Térrea na Casa Verde com Edícula]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Casa Verde</Neighborhood>
+        <Address>Rua Zanzibar</Address>
+        <StreetNumber>400</StreetNumber>
+        <PostalCode>02512-010</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">650000</ListPrice>
+        <Description><![CDATA[Casa principal com 2 dorms, mais uma edícula com quarto e banheiro nos fundos. Quintal e corredor lateral.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">200</LotArea>
+        <LivingArea unit="square metres">140</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0018_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0019</ListingID>
+      <Title><![CDATA[Sobrado em Condomínio em Guarulhos]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Guarulhos</City>
+        <Neighborhood>Macedo</Neighborhood>
+        <Address>Avenida Paulo Faccini</Address>
+        <StreetNumber>1800</StreetNumber>
+        <PostalCode>07111-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">990000</ListPrice>
+        <Description><![CDATA[Condomínio com lazer completo, próximo ao Bosque Maia. Casa com 3 dorms e quintal com churrasqueira.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">160</LotArea>
+        <LivingArea unit="square metres">140</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0019_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0020</ListingID>
+      <Title><![CDATA[Sobrado para Venda na Vila Madalena]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Vila Madalena</Neighborhood>
+        <Address>Rua Purpurina</Address>
+        <StreetNumber>600</StreetNumber>
+        <PostalCode>05435-030</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1300000</ListPrice>
+        <Description><![CDATA[Excelente localização. Sobrado com potencial para reforma e modernização. Próximo a bares e restaurantes.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">220</LotArea>
+        <LivingArea unit="square metres">200</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0020_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0021</ListingID>
+      <Title><![CDATA[Casa com 4 Dorms na Vila Romana]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Lapa</Neighborhood>
+        <Address>Rua Tonelero</Address>
+        <StreetNumber>1200</StreetNumber>
+        <PostalCode>05056-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1100000</ListPrice>
+        <Description><![CDATA[Casa espaçosa, ideal para famílias grandes. Edícula nos fundos. Precisa de modernização.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">210</LotArea>
+        <LivingArea unit="square metres">190</LivingArea>
+        <Bathrooms>4</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0021_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0022</ListingID>
+      <Title><![CDATA[Casa Nova em Condomínio Swiss Park - SBC]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Bernardo do Campo</City>
+        <Neighborhood>Swiss Park</Neighborhood>
+        <Address>Rua Werner Goldberg</Address>
+        <StreetNumber>157</StreetNumber>
+        <PostalCode>09781-220</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1400000</ListPrice>
+        <Description><![CDATA[Casa recém-construída, com 3 suítes, conceito aberto e área gourmet.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">240</LotArea>
+        <LivingArea unit="square metres">200</LivingArea>
+        <Bathrooms>4</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>4</Garage>
+        <Suites>3</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0022_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0023</ListingID>
+      <Title><![CDATA[Sobrado Comercial/Residencial no Brás]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Brás</Neighborhood>
+        <Address>Rua Turi</Address>
+        <StreetNumber>300</StreetNumber>
+        <PostalCode>03008-010</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">880000</ListPrice>
+        <Description><![CDATA[Ótimo para investidor. Pode ser usado como residência ou para fins comerciais. Próximo ao comércio da região.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">180</LotArea>
+        <LivingArea unit="square metres">170</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0023_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0024</ListingID>
+      <Title><![CDATA[Casa em Condomínio em Santo André]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Santo André</City>
+        <Neighborhood>Parque das Nações</Neighborhood>
+        <Address>Rua Equador</Address>
+        <StreetNumber>100</StreetNumber>
+        <PostalCode>09280-260</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">950000</ListPrice>
+        <Description><![CDATA[Condomínio tranquilo, com poucas casas. 3 dorms e quintal com cobertura retrátil e churrasqueira.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">150</LotArea>
+        <LivingArea unit="square metres">130</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0024_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0025</ListingID>
+      <Title><![CDATA[Casa Térrea para Reformar no Alto de Pinheiros]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Alto de Pinheiros</Neighborhood>
+        <Address>Rua Doutor Alberto Seabra</Address>
+        <StreetNumber>1000</StreetNumber>
+        <PostalCode>05452-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1600000</ListPrice>
+        <Description><![CDATA[Terreno de 400m². Casa com grande potencial para reforma total ou demolição e nova construção.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">400</LotArea>
+        <LivingArea unit="square metres">250</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>3</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0025_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0026</ListingID>
+      <Title><![CDATA[Casa em Condomínio para Alugar em Santo André]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Santo André</City>
+        <Neighborhood>Vila Homero Thon</Neighborhood>
+        <Address>Rua Giovanni Battista Pirelli</Address>
+        <StreetNumber>1500</StreetNumber>
+        <PostalCode>09111-340</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">7500</ListPrice>
+        <Description><![CDATA[Excelente casa em condomínio fechado, com segurança 24h e área de lazer. 3 dormitórios, sendo 2 suítes, e quintal com churrasqueira.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">220</LotArea>
+        <LivingArea unit="square metres">200</LivingArea>
+        <Bathrooms>4</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>4</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0026_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0027</ListingID>
+      <Title><![CDATA[Aluga-se Sobrado na Lapa]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Lapa</Neighborhood>
+        <Address>Rua Cerro Corá</Address>
+        <StreetNumber>2000</StreetNumber>
+        <PostalCode>05061-450</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">4500</ListPrice>
+        <Description><![CDATA[Sobrado com 3 dorms, sala ampla, cozinha com armários e quintal pequeno. Bem localizado.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">160</LotArea>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0027_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0028</ListingID>
+      <Title><![CDATA[Casa para Locação em Alphaville]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Santana de Parnaíba</City>
+        <Neighborhood>Alphaville</Neighborhood>
+        <Address>Avenida Yojiro Takaoka</Address>
+        <StreetNumber>5000</StreetNumber>
+        <PostalCode>06541-038</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">5500</ListPrice>
+        <Description><![CDATA[Condomínio com lazer completo. Casa com 3 dormitórios e quintal. Ideal para famílias.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">200</LotArea>
+        <LivingArea unit="square metres">180</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0028_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0029</ListingID>
+      <Title><![CDATA[Aluguel Casa Térrea na Zona Norte]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Lauzane Paulista</Neighborhood>
+        <Address>Rua Conselheiro Moreira de Barros</Address>
+        <StreetNumber>2800</StreetNumber>
+        <PostalCode>02430-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3500</ListPrice>
+        <Description><![CDATA[Casa térrea com 2 quartos, corredor lateral e edícula nos fundos. Quintal espaçoso.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">180</LotArea>
+        <LivingArea unit="square metres">120</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0029_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0030</ListingID>
+      <Title><![CDATA[Sobrado para Alugar na Vila Romana]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Vila Romana</Neighborhood>
+        <Address>Rua Tito</Address>
+        <StreetNumber>1000</StreetNumber>
+        <PostalCode>05051-001</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">4000</ListPrice>
+        <Description><![CDATA[3 dormitórios, sala, cozinha e um pequeno quintal. Localização excelente.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">150</LotArea>
+        <LivingArea unit="square metres">140</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0030_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0031</ListingID>
+      <Title><![CDATA[Casa na Granja Viana para Locação]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Cotia</City>
+        <Neighborhood>Granja Viana</Neighborhood>
+        <Address>Estrada Fernando Nobre</Address>
+        <StreetNumber>800</StreetNumber>
+        <PostalCode>06705-490</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">6000</ListPrice>
+        <Description><![CDATA[Em condomínio com lago e muito verde. Casa com 4 dorms, lareira e quintal com churrasqueira.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">250</LotArea>
+        <LivingArea unit="square metres">200</LivingArea>
+        <Bathrooms>4</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage>3</Garage>
+        <Suites>2</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0031_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0032</ListingID>
+      <Title><![CDATA[Sobrado perto do Metrô Saúde]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Saúde</Neighborhood>
+        <Address>Rua Visconde de Inhaúma</Address>
+        <StreetNumber>600</StreetNumber>
+        <PostalCode>04145-030</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3800</ListPrice>
+        <Description><![CDATA[Sobrado reformado, com 3 dorms (1 suíte) e 2 vagas. Cozinha com armários.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">140</LotArea>
+        <LivingArea unit="square metres">130</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0032_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0033</ListingID>
+      <Title><![CDATA[Aluguel de Casa em Condomínio em SBC]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Bernardo do Campo</City>
+        <Neighborhood>Rudge Ramos</Neighborhood>
+        <Address>Rua Ubatuba</Address>
+        <StreetNumber>200</StreetNumber>
+        <PostalCode>09635-070</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">4800</ListPrice>
+        <Description><![CDATA[Condomínio com poucas casas, ambiente familiar. 3 dorms e quintal privativo.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">160</LotArea>
+        <LivingArea unit="square metres">150</LivingArea>
+        <Bathrooms>3</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0033_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0034</ListingID>
+      <Title><![CDATA[Sobrado para Alugar no Tatuapé]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Tatuapé</Neighborhood>
+        <Address>Rua Emília Marengo</Address>
+        <StreetNumber>1200</StreetNumber>
+        <PostalCode>03336-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3200</ListPrice>
+        <Description><![CDATA[2 dormitórios, sendo 1 suíte. Sala, cozinha e área de serviço. Sem quintal.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">130</LotArea>
+        <LivingArea unit="square metres">120</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0034_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0035</ListingID>
+      <Title><![CDATA[Aluga-se Casa Térrea na Saúde]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Parque Imperial</Neighborhood>
+        <Address>Rua Paracatu</Address>
+        <StreetNumber>500</StreetNumber>
+        <PostalCode>04302-021</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2800</ListPrice>
+        <Description><![CDATA[Casa com 2 quartos, sala, cozinha, quintal e edícula. 1 vaga de garagem.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">120</LotArea>
+        <LivingArea unit="square metres">100</LivingArea>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0035_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0036</ListingID>
+      <Title><![CDATA[Casa Alto Padrão para Locação no Morumbi]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Morumbi</Neighborhood>
+        <Address>Rua Chabad</Address>
+        <StreetNumber>300</StreetNumber>
+        <PostalCode>05618-020</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">9000</ListPrice>
+        <Description><![CDATA[Em condomínio de luxo. Casa com 4 dorms, piscina e jardim. Acabamentos de primeira.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">280</LotArea>
+        <LivingArea unit="square metres">250</LivingArea>
+        <Bathrooms>5</Bathrooms>
+        <Bedrooms>4</Bedrooms>
+        <Garage>4</Garage>
+        <Suites>3</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0036_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0037</ListingID>
+      <Title><![CDATA[Sobrado para Alugar na Vila Assunção]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Santo André</City>
+        <Neighborhood>Vila Assunção</Neighborhood>
+        <Address>Rua Coronel Ortiz</Address>
+        <StreetNumber>700</StreetNumber>
+        <PostalCode>09030-540</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3600</ListPrice>
+        <Description><![CDATA[Ótima localização em Santo André. 3 dorms e 2 vagas.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">140</LotArea>
+        <LivingArea unit="square metres">130</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0037_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0038</ListingID>
+      <Title><![CDATA[Casa Térrea na Vila Prudente]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Vila Prudente</Neighborhood>
+        <Address>Rua Ibitirama</Address>
+        <StreetNumber>2000</StreetNumber>
+        <PostalCode>03134-100</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2500</ListPrice>
+        <Description><![CDATA[Casa com 2 quartos, quintal. Próximo ao metrô.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">120</LotArea>
+        <LivingArea unit="square metres">90</LivingArea>
+        <Bathrooms>1</Bathrooms>
+        <Bedrooms>2</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0038_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0039</ListingID>
+      <Title><![CDATA[Casa em Condomínio na Zona Norte]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Jardim Brasil</Neighborhood>
+        <Address>Rua Ática</Address>
+        <StreetNumber>500</StreetNumber>
+        <PostalCode>02227-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">4200</ListPrice>
+        <Description><![CDATA[3 dorms, quintal com churrasqueira. Condomínio com piscina.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">130</LotArea>
+        <LivingArea unit="square metres">120</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>2</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0039_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-CA0040</ListingID>
+      <Title><![CDATA[Aluguel de Sobrado no Sumarezinho]]></Title>
+      <TransactionType>For Rent</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Sumarezinho</Neighborhood>
+        <Address>Rua Heitor Penteado</Address>
+        <StreetNumber>1500</StreetNumber>
+        <PostalCode>05438-100</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3900</ListPrice>
+        <Description><![CDATA[Ao lado do metrô Vila Madalena. 3 dorms, sala, cozinha.]]></Description>
+        <PropertyType>Residential / Home</PropertyType>
+        <LotArea unit="square metres">140</LotArea>
+        <LivingArea unit="square metres">135</LivingArea>
+        <Bathrooms>2</Bathrooms>
+        <Bedrooms>3</Bedrooms>
+        <Garage>1</Garage>
+        <Suites>1</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/CA0040_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-TE0001</ListingID>
+      <Title><![CDATA[Terreno 800m² em Condomínio de Luxo - Tamboré 2]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Santana de Parnaíba</City>
+        <Neighborhood>Tamboré</Neighborhood>
+        <Address>Alameda Mamoré</Address>
+        <StreetNumber>500</StreetNumber>
+        <PostalCode>06544-040</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2200000</ListPrice>
+        <Description><![CDATA[Excelente terreno plano, com 800m², localizado em um dos melhores condomínios da região. Pronto para construir a casa dos seus sonhos.]]></Description>
+        <PropertyType>Land / Lot</PropertyType>
+        <LotArea unit="square metres">800</LotArea>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Garage>0</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0001_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-TE0002</ListingID>
+      <Title><![CDATA[Terreno de 1000m² em Alphaville Residencial 1]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Barueri</City>
+        <Neighborhood>Alphaville</Neighborhood>
+        <Address>Alameda Cauaxi</Address>
+        <StreetNumber>700</StreetNumber>
+        <PostalCode>06454-020</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">3500000</ListPrice>
+        <Description><![CDATA[Oportunidade rara. Terreno plano, em alameda tranquila e nobre. Pronto para construir.]]></Description>
+        <PropertyType>Land / Lot</PropertyType>
+        <LotArea unit="square metres">1000</LotArea>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Garage>0</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0002_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-TE0003</ListingID>
+      <Title><![CDATA[Terreno 1200m² na Granja Viana]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Vargem Grande Paulista</City>
+        <Neighborhood>Vargem Grande Paulista</Neighborhood>
+        <Address>Estrada de Caucaia do Alto</Address>
+        <StreetNumber>4000</StreetNumber>
+        <PostalCode>06730-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1500000</ListPrice>
+        <Description><![CDATA[Terreno em condomínio de alto padrão, com leve aclive e vista para a área de preservação.]]></Description>
+        <PropertyType>Land / Lot</PropertyType>
+        <LotArea unit="square metres">1200</LotArea>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Garage>0</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0003_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-TE0004</ListingID>
+      <Title><![CDATA[Lote de 750m² no Tamboré 5]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Santana de Parnaíba</City>
+        <Neighborhood>Tamboré</Neighborhood>
+        <Address>Avenida dos Lagos</Address>
+        <StreetNumber>200</StreetNumber>
+        <PostalCode>06543-315</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1800000</ListPrice>
+        <Description><![CDATA[Terreno com ótima topografia, pronto para construir. Condomínio com lazer completo.]]></Description>
+        <PropertyType>Land / Lot</PropertyType>
+        <LotArea unit="square metres">750</LotArea>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Garage>0</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0004_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-TE0005</ListingID>
+      <Title><![CDATA[Terreno em Alphaville Residencial Plus]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Barueri</City>
+        <Neighborhood>Alphaville</Neighborhood>
+        <Address>Alameda Ipanema</Address>
+        <StreetNumber>100</StreetNumber>
+        <PostalCode>06474-230</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">2500000</ListPrice>
+        <Description><![CDATA[Lote de 850m² em condomínio consolidado e de alto padrão. Excelente localização.]]></Description>
+        <PropertyType>Land / Lot</PropertyType>
+        <LotArea unit="square metres">850</LotArea>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Garage>0</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0005_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-TE0006</ListingID>
+      <Title><![CDATA[Terreno Comercial de 500m² em Avenida Principal de Osasco]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Osasco</City>
+        <Neighborhood>Centro</Neighborhood>
+        <Address>Avenida dos Autonomistas</Address>
+        <StreetNumber>5000</StreetNumber>
+        <PostalCode>06090-010</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">700000</ListPrice>
+        <Description><![CDATA[Terreno plano em avenida de grande movimento, ideal para construção de galpão ou loja. Zoneamento permite diversos tipos de comércio.]]></Description>
+        <PropertyType>Land / Lot</PropertyType>
+        <LotArea unit="square metres">500</LotArea>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Garage>0</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0006_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-TE0007</ListingID>
+      <Title><![CDATA[Terreno de 600m² em Guarulhos]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Guarulhos</City>
+        <Neighborhood>Vila Augusta</Neighborhood>
+        <Address>Avenida Guarulhos</Address>
+        <StreetNumber>2000</StreetNumber>
+        <PostalCode>07021-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">950000</ListPrice>
+        <Description><![CDATA[Terreno plano, murado, em avenida com bom fluxo. Ideal para pequena incorporação ou comércio.]]></Description>
+        <PropertyType>Land / Lot</PropertyType>
+        <LotArea unit="square metres">600</LotArea>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Garage>0</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0007_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-TE0008</ListingID>
+      <Title><![CDATA[Terreno de 1000m² na Zona Sul]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Capão Redondo</Neighborhood>
+        <Address>Estrada de Itapecerica</Address>
+        <StreetNumber>8000</StreetNumber>
+        <PostalCode>05858-002</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1200000</ListPrice>
+        <Description><![CDATA[Terreno amplo, com potencial para construção de sobrados em condomínio ou galpão.]]></Description>
+        <PropertyType>Land / Lot</PropertyType>
+        <LotArea unit="square metres">1000</LotArea>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Garage>0</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0008_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-TE0009</ListingID>
+      <Title><![CDATA[Terreno à Venda em Mogi das Cruzes]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>Mogi das Cruzes</City>
+        <Neighborhood>Mogi das Cruzes</Neighborhood>
+        <Address>Rua Doutor Ricardo</Address>
+        <StreetNumber>500</StreetNumber>
+        <PostalCode>08730-030</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">800000</ListPrice>
+        <Description><![CDATA[Lote de 700m², plano e pronto para construir. Rua tranquila, bairro residencial.]]></Description>
+        <PropertyType>Land / Lot</PropertyType>
+        <LotArea unit="square metres">700</LotArea>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Garage>0</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0009_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+    <Listing>
+      <ListingID>PEI-TE0010</ListingID>
+      <Title><![CDATA[Terreno de 800m² Próximo ao Autódromo de Interlagos]]></Title>
+      <TransactionType>For Sale</TransactionType>
+      <Location displayAddress="Street">
+        <Country abbreviation="BR">Brasil</Country>
+        <State abbreviation="SP">SP</State>
+        <City>São Paulo</City>
+        <Neighborhood>Interlagos</Neighborhood>
+        <Address>Avenida Interlagos</Address>
+        <StreetNumber>5000</StreetNumber>
+        <PostalCode>04777-000</PostalCode>
+      </Location>
+      <Details>
+        <ListPrice currency="BRL">1500000</ListPrice>
+        <Description><![CDATA[Terreno com grande potencial construtivo, em avenida de grande circulação.]]></Description>
+        <PropertyType>Land / Lot</PropertyType>
+        <LotArea unit="square metres">800</LotArea>
+        <Bathrooms>0</Bathrooms>
+        <Bedrooms>0</Bedrooms>
+        <Garage>0</Garage>
+        <Suites>0</Suites>
+      </Details>
+      <Media>
+        <Item medium="image">https://cdn.example.com/pei/TE0010_1.jpg</Item>
+      </Media>
+      <ContactInfo>
+        <Name>Primeira Escolha Imoveis</Name>
+        <Email>contato@primeiraescolhaimoveis.com.br</Email>
+        <Website>https://www.primeiraescolhaimoveis.com.br</Website>
+        <Logo>https://cdn.example.com/pei/logo.png</Logo>
+      </ContactInfo>
+    </Listing>
+  </Listings>
+</ListingDataFeed>

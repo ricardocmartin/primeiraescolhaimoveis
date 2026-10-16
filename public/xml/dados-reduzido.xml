@@ -20,7 +20,7 @@
         <Neighborhood>Itaim Bibi</Neighborhood>
         <Address>Rua Joaquim Floriano</Address>
         <StreetNumber>100</StreetNumber>
-        <PostalCode>04534-000</PostalCode>
+        <PostalCode>04534000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">3500000</ListPrice>
@@ -34,10 +34,11 @@
         <Suites>3</Suites>
       </Details>
       <Media>
-        <Item medium="image">/img/apartamento-luxo-1.jpg</Item>
-        <Item medium="image">/img/apartamento-luxo-2.jpg</Item>
-        <Item medium="image">/img/apartamento-luxo-3.jpg</Item>
-        <Item medium="image">/img/apartamento-luxo-4.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-luxo-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-luxo-2.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-luxo-3.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-luxo-4.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-luxo-1.jpg</Item>
       </Media>
       <ContactInfo>
         <Name>Primeira Escolha Imoveis</Name>
@@ -73,9 +74,11 @@
         <Suites>2</Suites>
       </Details>
       <Media>
-        <Item medium="image">/img/apartamento-moema-1.jpg</Item>
-        <Item medium="image">/img/apartamento-moema-2.jpg</Item>
-        <Item medium="image">/img/apartamento-moema-3.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-moema-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-moema-2.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-moema-3.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-moema-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/apartamento-moema-2.jpg</Item>
       </Media>
       <ContactInfo>
         <Name>Primeira Escolha Imoveis</Name>
@@ -97,7 +100,7 @@
         <Neighborhood>Jardins</Neighborhood>
         <Address>Rua Haddock Lobo</Address>
         <StreetNumber>1300</StreetNumber>
-        <PostalCode>01414-002</PostalCode>
+        <PostalCode>01414002</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">6800000</ListPrice>
@@ -111,9 +114,11 @@
         <Suites>3</Suites>
       </Details>
       <Media>
-        <Item medium="image">/img/cobertura-jardins-1.jpg</Item>
-        <Item medium="image">/img/cobertura-jardins-2.jpg</Item>
-        <Item medium="image">/img/cobertura-jardins-3.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/cobertura-jardins-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/cobertura-jardins-2.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/cobertura-jardins-3.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/cobertura-jardins-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/cobertura-jardins-2.jpg</Item>
       </Media>
       <ContactInfo>
         <Name>Primeira Escolha Imoveis</Name>
@@ -135,7 +140,7 @@
         <Neighborhood>Vila Nova Conceição</Neighborhood>
         <Address>Rua Diogo Jácome</Address>
         <StreetNumber>700</StreetNumber>
-        <PostalCode>04512-001</PostalCode>
+        <PostalCode>04512001</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">3100000</ListPrice>
@@ -149,8 +154,11 @@
         <Suites>1</Suites>
       </Details>
       <Media>
-        <Item medium="image">/img/vila-nova-1.jpg</Item>
-        <Item medium="image">/img/vila-nova-2.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/vila-nova-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/vila-nova-2.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/vila-nova-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/vila-nova-2.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/vila-nova-1.jpg</Item>
       </Media>
       <ContactInfo>
         <Name>Primeira Escolha Imoveis</Name>
@@ -172,7 +180,7 @@
         <Neighborhood>Itaim Bibi</Neighborhood>
         <Address>Rua Elvira Ferraz</Address>
         <StreetNumber>250</StreetNumber>
-        <PostalCode>04552-040</PostalCode>
+        <PostalCode>04552040</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">2900000</ListPrice>
@@ -186,9 +194,11 @@
         <Suites>2</Suites>
       </Details>
       <Media>
-        <Item medium="image">/img/itaim-varanda-1.jpg</Item>
-        <Item medium="image">/img/itaim-varanda-2.jpg</Item>
-        <Item medium="image">/img/itaim-varanda-3.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/itaim-varanda-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/itaim-varanda-2.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/itaim-varanda-3.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/itaim-varanda-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/itaim-varanda-2.jpg</Item>
       </Media>
       <ContactInfo>
         <Name>Primeira Escolha Imoveis</Name>
@@ -210,7 +220,7 @@
         <Neighborhood>Perdizes</Neighborhood>
         <Address>Rua Monte Alegre</Address>
         <StreetNumber>850</StreetNumber>
-        <PostalCode>05014-000</PostalCode>
+        <PostalCode>05014000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">4500</ListPrice>
@@ -249,7 +259,7 @@
         <Neighborhood>Brooklin</Neighborhood>
         <Address>Rua Flórida</Address>
         <StreetNumber>1200</StreetNumber>
-        <PostalCode>04565-001</PostalCode>
+        <PostalCode>04565001</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">1850000</ListPrice>
@@ -285,7 +295,7 @@
         <Neighborhood>Higienópolis</Neighborhood>
         <Address>Avenida Higienópolis</Address>
         <StreetNumber>800</StreetNumber>
-        <PostalCode>01238-000</PostalCode>
+        <PostalCode>01238000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">2200000</ListPrice>
@@ -321,7 +331,7 @@
         <Neighborhood>Vila Madalena</Neighborhood>
         <Address>Rua Harmonia</Address>
         <StreetNumber>500</StreetNumber>
-        <PostalCode>05435-000</PostalCode>
+        <PostalCode>05435000</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">3800</ListPrice>
@@ -359,7 +369,7 @@
         <Neighborhood>Saúde</Neighborhood>
         <Address>Rua Borges Lagoa</Address>
         <StreetNumber>1500</StreetNumber>
-        <PostalCode>04038-032</PostalCode>
+        <PostalCode>04038032</PostalCode>
       </Location>
       <Details>
         <ListPrice currency="BRL">980000</ListPrice>
@@ -373,7 +383,11 @@
         <Suites>1</Suites>
       </Details>
       <Media>
-        <Item medium="image">/img/saude-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/saude-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/saude-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/saude-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/saude-1.jpg</Item>
+        <Item medium="image">https://ricardocmartin.github.io/primeiraescolhaimoveis/img/saude-1.jpg</Item>
       </Media>
       <ContactInfo>
         <Name>Primeira Escolha Imoveis</Name>
